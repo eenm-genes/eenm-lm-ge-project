@@ -3,11 +3,11 @@
 
 > |Nome  | RA | Especialização|
 > |--|--|--|
-> | Davisson Medeiros  | 123456  | Computação |
-> | Jadson Costa  | 123456  | Computação |
-> | Jorge Frasson  | 123456  | Computação |
-> | José Nogueira  | 123456  | Computação|
-> | Milena Santos  | 123456  | Biologia|
+> | Davisson Medeiros  | 290281  | Computação |
+> | Jadson Costa  | 255164  | Computação |
+> | Jorge Frasson  | 170852  | Computação |
+> | José Nogueira  | ?  | Computação|
+> | Milena Santos  | 185634  | Biologia|
 > | ?  | ?  | Biologia|
 
 # Apresentação
