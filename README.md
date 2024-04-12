@@ -6,7 +6,7 @@
 > | Davisson Medeiros  | 290281  | Computação |
 > | Jadson Costa  | 255164  | Computação |
 > | Jorge Frasson  | 170852  | Computação |
-> | José Nogueira  | ?  | Computação|
+> | José Nogueira  | 227000  | Computação|
 > | Milena Santos  | 185634  | Biologia|
 > | ?  | ?  | Biologia|
 
