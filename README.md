@@ -1,14 +1,14 @@
 # Projeto `Expressão Gênica (EG) na Estimulação Elétrica Neuromuscular (EENM) em pacientes com Lesão Medular (LM)`
 #### Project `Gene Expression in Neuromuscular Electrical Stimulation in Patients with Spinal Cord Injury`
 
-> |Nome  | RA | Especialização|
-> |--|--|--|
-> | Davisson Medeiros  | 290281  | Computação |
-> | Jadson Costa  | 255164  | Computação |
-> | Jorge Frasson  | 170852  | Computação |
-> | José Nogueira  | 227000  | Computação|
-> | Milena Santos  | 185634  | Biologia|
-> | ?  | ?  | Biologia|
+|Nome  | RA | Especialização|
+|--|--|--|
+| Davisson Medeiros  | 290281  | Computação |
+| Jadson Costa  | 255164  | Computação |
+| Jorge Frasson  | 170852  | Computação |
+| José Nogueira  | 227000  | Computação|
+| Milena Santos  | 185634  | Biologia|
+| ?  | ?  | Biologia|
 
 # Apresentação
 
