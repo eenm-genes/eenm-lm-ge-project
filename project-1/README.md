@@ -37,6 +37,8 @@ Base de Dados | Resumo descritivo
 [AKT1](https://string-db.org/cgi/network?taskId=bV6MF5yoaoh0&sessionId=bBvOiJPSlOF7) | Proteínas relacionadas ao AKT1
 [AKT2](https://string-db.org/cgi/network?taskId=bfMHDQajUESA&sessionId=bBvOiJPSlOF7) | Proteínas relacionadas ao AKT2
 [AKT3](https://string-db.org/cgi/network?taskId=bwqsgTgo8rb0&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao AKT3
+[GSK3A](https://string-db.org/cgi/network?taskId=bHFRLFEQaMih&sessionId=bvoyp7QgkqTw) | Proteínas relacionadas ao GSK3A
+[GSK3B](https://string-db.org/cgi/network?taskId=bsj1cneNr76s&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao GSK3B
 
 
 # Modelo Lógico
