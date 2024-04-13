@@ -34,6 +34,10 @@ Base de Dados | Resumo descritivo
 ----- | -----
 [IGF-1](https://string-db.org/cgi/network?taskId=b8ePHc3wZqdF&sessionId=bZTnXk3aFveC) | Proteínas relacionadas ao IGF-1
 [Atrogina-1](https://string-db.org/cgi/network?taskId=bAiwgZruIpcl&sessionId=bO2qss02GiDr) | Proteínas relacionadas a Antrogina-1
+[AKT1](https://string-db.org/cgi/network?taskId=bV6MF5yoaoh0&sessionId=bBvOiJPSlOF7) | Proteínas relacionadas ao AKT1
+[AKT2](https://string-db.org/cgi/network?taskId=bfMHDQajUESA&sessionId=bBvOiJPSlOF7) | Proteínas relacionadas ao AKT2
+[AKT3](https://string-db.org/cgi/network?taskId=bwqsgTgo8rb0&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao AKT3
+
 
 # Modelo Lógico
 
