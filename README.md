@@ -15,4 +15,5 @@
 O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação [*Ciência e Visualização de Dados em Saúde*](https://github.com/datasci4health), oferecida no primeiro semestre de 2024, na Unicamp.
 
 # Descrição Resumida do Projeto
-> Descrição do tema do projeto, incluindo motivação e contexto gerador.
+
+Este projeto visa estudar como a *Estimulação Elétrica Neuromuscular (EENM)* afeta a expressão gênica em pacientes com *Lesão Medular (LM)*, especialmente nos processos musculares de atrofia e hipertrofia. A EENM é uma técnica que pode melhorar a qualidade de vida ao reduzir a espasticidade e restaurar o movimento em pacientes com LM. A pesquisa se baseia em genes associados à atrofia (**atrogin-1/MAFbx** e **MuRF-1**) e à hipertrofia (**MyoD**, **Myf-5**, **miogenina** e **IGF-1**) muscular. 

@@ -38,7 +38,9 @@ Base de Dados | Resumo descritivo
 # Modelo Lógico
 
 ![Modelo Lógico de Grafos](assets/images/modelo-logico-01.png)
+
 ---
+
 ![Modelo Lógico de Grafos](assets/images/modelo-logico-02.png)
 
 # Metodologia
