@@ -39,6 +39,13 @@ Base de Dados | Resumo descritivo
 [AKT3](https://string-db.org/cgi/network?taskId=bwqsgTgo8rb0&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao AKT3
 [GSK3A](https://string-db.org/cgi/network?taskId=bHFRLFEQaMih&sessionId=bvoyp7QgkqTw) | Proteínas relacionadas ao GSK3A
 [GSK3B](https://string-db.org/cgi/network?taskId=bsj1cneNr76s&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao GSK3B
+[MTOR](https://string-db.org/cgi/network?taskId=bjgeWS9SYfyd&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao MTOR
+[p7056K](https://string-db.org/cgi/network?taskId=bi4cGuXBjgPR&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao p7056K
+[EIF2B1](https://string-db.org/cgi/network?taskId=bwVeSwdwFoBD&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao EIF2B1
+[EIF2B2](https://string-db.org/cgi/network?taskId=bZIP1NqwXTlC&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao EIF2B2
+[EIF2B3](https://string-db.org/cgi/network?taskId=befwuleBgsyI&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao EIF2B3
+[EIF2B4](https://string-db.org/cgi/network?taskId=bzH2cU2H40oN&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao EIF2B4
+[EIF2B5](https://string-db.org/cgi/network?taskId=bzuYc2heNxVD&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao EIF2B5
 
 
 # Modelo Lógico
