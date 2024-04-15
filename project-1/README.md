@@ -46,7 +46,8 @@ Base de Dados | Resumo descritivo
 [EIF2B3](https://string-db.org/cgi/network?taskId=befwuleBgsyI&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao EIF2B3
 [EIF2B4](https://string-db.org/cgi/network?taskId=bzH2cU2H40oN&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao EIF2B4
 [EIF2B5](https://string-db.org/cgi/network?taskId=bzuYc2heNxVD&sessionId=bTOJkDopBLgt) | Proteínas relacionadas ao EIF2B5
-
+[IGF1 - ENSG00000017427](https://www.bgee.org/search/raw-data?pageType=proc_expr_values&data_type=RNA_SEQ&data=3744958021aa5c0e5cf0bcf147d5177d41e87ed8) | Expressão Gênica relacionada ao Gene IGF-1
+[FBXO32 - ENSG00000156804](https://www.bgee.org/search/raw-data?pageType=proc_expr_values&data_type=RNA_SEQ&data=85c543fc3bbea21dfd962bab46bd4d27c85849e6) | Expressão Gênica relacionada ao Gene ATROGIN-1
 
 # Modelo Lógico
 
