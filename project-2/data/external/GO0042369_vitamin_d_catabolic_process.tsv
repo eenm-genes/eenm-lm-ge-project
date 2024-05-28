@@ -1,0 +1,4 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Cyp24a1	Fgf23	10090.ENSMUSP00000047954	10090.ENSMUSP00000000186	0	0	0	0	0.073	0	0	0.827	0.832
+Cyp24a1	Cyp27b1	10090.ENSMUSP00000047954	10090.ENSMUSP00000130005	0	0	0.138	0.801	0.104	0.093	0.900	0.216	0.935
+Cyp27b1	Fgf23	10090.ENSMUSP00000130005	10090.ENSMUSP00000000186	0	0	0	0	0.059	0	0	0.853	0.856
