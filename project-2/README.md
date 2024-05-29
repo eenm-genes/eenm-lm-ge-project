@@ -51,8 +51,11 @@ Base de Dados | Resumo descritivo
 [PMID:32528735]() | Esclerose Múltipla: Lipídios, Linfócitos e Vitamina D.
 
 > Faça uma descrição sobre o que concluiu sobre esta base. Sugere-se que respondam perguntas ou forneçam informações indicadas a seguir:
-> * O que descobriu sobre essa base?
-> * Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
+Utilizando uma base de dados específica, foram identificadas cinco comunidades de proteínas, sendo Actb, Ctss, Cxcl10, Fn1 e Ifitm3 as proteínas centrais. Embora os dados disponíveis não tenham permitido estabelecer uma relação direta entre a vitamina D e o tratamento da Esclerose Múltipla, a pesquisa continuará sendo desenvolvida e a base de dados será enriquecida na esperança de encontrar uma relação direta ou indireta (de segunda ordem ou mais).
+
+Para realizar a análise vetorial dos dados, foi necessário consolidar cada amostra, originalmente armazenada em arquivos CSV separados, em um único arquivo. Esses arquivos estavam separados por cobaia e continham duas colunas: uma com o nome da proteína e outra com o valor correspondente. Para unificar os dados, cada um desses arquivos foi convertido em uma coluna. Como grande parte das análises vetoriais utiliza métricas de distância, foi calculada a média por grupo: uma coluna representava a média dos valores para todas as cobaias tratadas com placebo, outra coluna representava a média do grupo de controle, e a última coluna representava a média do grupo tratado. Essa abordagem permitiu analisar a variância intra-grupo de cada proteína, reduzindo a aleatoriedade e tornando a medida mais consistente. Devido à variação na quantidade de expressão de cada proteína, foi necessário normalizá-las em relação à sua média e desvio padrão, possibilitando a comparação da variância de cada proteína entre os grupos, independentemente da magnitude de expressão.
+
+Finalmente, para reduzir a quantidade de proteínas analisadas, foram filtradas aquelas que apresentaram maior diferença de expressão, totalizando 89 proteínas. A utilização desta base de dados foi crucial para obter os resultados iniciais, permitindo a identificação de clusters de proteínas com padrões semelhantes e a descoberta de comunidades específicas. Com o contínuo trabalho de enriquecimento da base de dados, espera-se conectar essas proteínas com determinados pathways e identificar relações mais implícitas entre a vitamina D e o tratamento da Esclerose Múltipla. Isso poderá proporcionar uma compreensão mais profunda dos mecanismos subjacentes e potencialmente revelar novas direções para futuras pesquisas.
 
 ## Modelo Lógico
 
