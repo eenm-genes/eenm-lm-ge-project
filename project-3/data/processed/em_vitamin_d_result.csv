@@ -1,0 +1,167 @@
+from,to,edge,ref,name
+Actb,Akt1,MultipleSclerosis,PMID:31030237,Vitamin D Increases Glucocorticoid Efficacy Via Inhibition Of Mtorc1 In Experimental Models Of Multiple Sclerosis
+Actb,Anxa5,MultipleSclerosis,PMID:31030237,Vitamin D Increases Glucocorticoid Efficacy Via Inhibition Of Mtorc1 In Experimental Models Of Multiple Sclerosis
+Actb,Cd4,MultipleSclerosis,PMID:31030237,Vitamin D Increases Glucocorticoid Efficacy Via Inhibition Of Mtorc1 In Experimental Models Of Multiple Sclerosis
+Actb,Foxp3,MultipleSclerosis,PMID:32251441,The Impact Of Vitamin D3 Intake On Inflammatory Markers In Multiple Sclerosis Patients And Their First Degree Relatives
+Actb,Gapdh,MultipleSclerosis,PMID:31030237,Vitamin D Increases Glucocorticoid Efficacy Via Inhibition Of Mtorc1 In Experimental Models Of Multiple Sclerosis
+Actb,Hsp90aa1,MultipleSclerosis,PMID:31030237,Vitamin D Increases Glucocorticoid Efficacy Via Inhibition Of Mtorc1 In Experimental Models Of Multiple Sclerosis
+Actb,Hsp90ab1,MultipleSclerosis,PMID:31030237,Vitamin D Increases Glucocorticoid Efficacy Via Inhibition Of Mtorc1 In Experimental Models Of Multiple Sclerosis
+Actb,Ifng,MultipleSclerosis,PMID:32251441,The Impact Of Vitamin D3 Intake On Inflammatory Markers In Multiple Sclerosis Patients And Their First Degree Relatives
+Actb,Il10,MultipleSclerosis,PMID:32251441,The Impact Of Vitamin D3 Intake On Inflammatory Markers In Multiple Sclerosis Patients And Their First Degree Relatives
+Actb,Il17a,MultipleSclerosis,PMID:32251441,The Impact Of Vitamin D3 Intake On Inflammatory Markers In Multiple Sclerosis Patients And Their First Degree Relatives
+Actb,Il22,MultipleSclerosis,PMID:32251441,The Impact Of Vitamin D3 Intake On Inflammatory Markers In Multiple Sclerosis Patients And Their First Degree Relatives
+Actb,Il6,MultipleSclerosis,PMID:32251441,The Impact Of Vitamin D3 Intake On Inflammatory Markers In Multiple Sclerosis Patients And Their First Degree Relatives
+Actb,Lck,MultipleSclerosis,PMID:31030237,Vitamin D Increases Glucocorticoid Efficacy Via Inhibition Of Mtorc1 In Experimental Models Of Multiple Sclerosis
+Actb,Mtor,MultipleSclerosis,PMID:31030237,Vitamin D Increases Glucocorticoid Efficacy Via Inhibition Of Mtorc1 In Experimental Models Of Multiple Sclerosis
+Actb,Nr3c1,MultipleSclerosis,PMID:31030237,Vitamin D Increases Glucocorticoid Efficacy Via Inhibition Of Mtorc1 In Experimental Models Of Multiple Sclerosis
+Actb,Rheb,MultipleSclerosis,PMID:31030237,Vitamin D Increases Glucocorticoid Efficacy Via Inhibition Of Mtorc1 In Experimental Models Of Multiple Sclerosis
+Actb,Smad4,MultipleSclerosis,PMID:32251441,The Impact Of Vitamin D3 Intake On Inflammatory Markers In Multiple Sclerosis Patients And Their First Degree Relatives
+Actb,Stat1,MultipleSclerosis,PMID:32251441,The Impact Of Vitamin D3 Intake On Inflammatory Markers In Multiple Sclerosis Patients And Their First Degree Relatives
+Actb,Stat3,MultipleSclerosis,PMID:32251441,The Impact Of Vitamin D3 Intake On Inflammatory Markers In Multiple Sclerosis Patients And Their First Degree Relatives
+Actb,Stat5a,MultipleSclerosis,PMID:32251441,The Impact Of Vitamin D3 Intake On Inflammatory Markers In Multiple Sclerosis Patients And Their First Degree Relatives
+Actb,Tbx21,MultipleSclerosis,PMID:32251441,The Impact Of Vitamin D3 Intake On Inflammatory Markers In Multiple Sclerosis Patients And Their First Degree Relatives
+Actb,Tsc2,MultipleSclerosis,PMID:31030237,Vitamin D Increases Glucocorticoid Efficacy Via Inhibition Of Mtorc1 In Experimental Models Of Multiple Sclerosis
+Cxcl10,F3,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Foxp3,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Ido1,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Ifnb1,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Ifng,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Il17a,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Il18,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Il33,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Il4,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Il6,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Nrp1,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Tlr2,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Tlr3,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Tlr4,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Cxcl10,Tnf,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Fn1,Mmp2,MultipleSclerosis,PMID:32243867,Serum Levels Of Matrix Metalloproteinase 2 9 And Vitamin D In Patients With Multiple Sclerosis With Or Without Herpesvirus 6 Seropositivity
+Fn1,Mmp9,MultipleSclerosis,PMID:32243867,Serum Levels Of Matrix Metalloproteinase 2 9 And Vitamin D In Patients With Multiple Sclerosis With Or Without Herpesvirus 6 Seropositivity
+Fn1,Timp1,MultipleSclerosis,PMID:32243867,Serum Levels Of Matrix Metalloproteinase 2 9 And Vitamin D In Patients With Multiple Sclerosis With Or Without Herpesvirus 6 Seropositivity
+H2-T23,Ifng,MultipleSclerosis,PMID:36899820,Covid 19 And Multiple Sclerosis A Complex Relationship Possibly Aggravated By Low Vitamin D Levels
+Nfkbia,Stat3,MultipleSclerosis,PMID:35813882,Full Spectrum Of Vitamin D Immunomodulation In Multiple Sclerosis Mechanisms And Therapeutic Implications
+Nfkbia,Stat6,MultipleSclerosis,PMID:35813882,Full Spectrum Of Vitamin D Immunomodulation In Multiple Sclerosis Mechanisms And Therapeutic Implications
+Nfkbia,Tlr4,MultipleSclerosis,PMID:35813882,Full Spectrum Of Vitamin D Immunomodulation In Multiple Sclerosis Mechanisms And Therapeutic Implications
+Nfkbia,Tnf,MultipleSclerosis,PMID:35813882,Full Spectrum Of Vitamin D Immunomodulation In Multiple Sclerosis Mechanisms And Therapeutic Implications
+Nfkbia,Trp53,MultipleSclerosis,PMID:35813882,Full Spectrum Of Vitamin D Immunomodulation In Multiple Sclerosis Mechanisms And Therapeutic Implications
+Nfkbia,Vegfa,MultipleSclerosis,PMID:35813882,Full Spectrum Of Vitamin D Immunomodulation In Multiple Sclerosis Mechanisms And Therapeutic Implications
+Socs3,Tgfb1,MultipleSclerosis,PMID:37447304,The Role Of Vitamin D In Neuroprotection In Multiple Sclerosis An Update
+Socs3,Tlr4,MultipleSclerosis,PMID:37447304,The Role Of Vitamin D In Neuroprotection In Multiple Sclerosis An Update
+Socs3,Tnf,MultipleSclerosis,PMID:37447304,The Role Of Vitamin D In Neuroprotection In Multiple Sclerosis An Update
+Spp1,Tnf,MultipleSclerosis,PMID:27209163,Iranian Consensus On Use Of Vitamin D In Patients With Multiple Sclerosis
+Thbs1,Tnf,MultipleSclerosis,PMID:31293564,Map7 And Mucl1 Are Biomarkers Of Vitamin D3 Induced Tolerogenic Dendritic Cells In Multiple Sclerosis Patients
+Actb,Akt1,BiologicalProcess,GO:0045597,Positive Regulation Of Cell Differentiation
+Actb,Anxa5,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+Actb,Cd4,BiologicalProcess,GO:0045597,Positive Regulation Of Cell Differentiation
+Actb,Foxp3,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Actb,Gapdh,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+Actb,Hsp90aa1,BiologicalProcess,GO:0045582,Positive Regulation Of T Cell Differentiation
+Actb,Hsp90ab1,BiologicalProcess,GO:0045597,Positive Regulation Of Cell Differentiation
+Actb,Ifng,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Actb,Il10,BiologicalProcess,GO:0045597,Positive Regulation Of Cell Differentiation
+Actb,Il17a,BiologicalProcess,GO:0045597,Positive Regulation Of Cell Differentiation
+Actb,Il22,BiologicalProcess,GO:0045893,Positive Regulation Of Dna Templated Transcription
+Actb,Il6,BiologicalProcess,GO:0045582,Positive Regulation Of T Cell Differentiation
+Actb,Lck,BiologicalProcess,GO:0045582,Positive Regulation Of T Cell Differentiation
+Actb,Mtor,BiologicalProcess,GO:0045597,Positive Regulation Of Cell Differentiation
+Actb,Nr3c1,BiologicalProcess,GO:0045597,Positive Regulation Of Cell Differentiation
+Actb,Rheb,BiologicalProcess,GO:0045597,Positive Regulation Of Cell Differentiation
+Actb,Smad4,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Actb,Stat1,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Actb,Stat3,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Actb,Stat5a,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Actb,Tbx21,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Actb,Tsc2,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Cxcl10,F3,BiologicalProcess,GO:0006952,Defense Response
+Cxcl10,Foxp3,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Cxcl10,Ido1,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+Cxcl10,Ifnb1,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Cxcl10,Ifng,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Cxcl10,Il17a,BiologicalProcess,GO:0006952,Defense Response
+Cxcl10,Il18,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Cxcl10,Il33,BiologicalProcess,GO:0006952,Defense Response
+Cxcl10,Il4,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Cxcl10,Il6,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+Cxcl10,Nrp1,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Cxcl10,Tlr2,BiologicalProcess,GO:0006952,Defense Response
+Cxcl10,Tlr3,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+Cxcl10,Tlr4,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+Cxcl10,Tnf,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Fn1,Mmp2,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+Fn1,Mmp9,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+Fn1,Timp1,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+H2-T23,Ifng,BiologicalProcess,GO:0006955,Immune Response
+Nfkbia,Stat3,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Nfkbia,Stat6,BiologicalProcess,GO:0045893,Positive Regulation Of Dna Templated Transcription
+Nfkbia,Tlr4,BiologicalProcess,GO:0050729,Positive Regulation Of Inflammatory Response
+Nfkbia,Tnf,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Nfkbia,Trp53,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Nfkbia,Vegfa,BiologicalProcess,GO:0045596,Negative Regulation Of Cell Differentiation
+Socs3,Tgfb1,BiologicalProcess,GO:0045597,Positive Regulation Of Cell Differentiation
+Socs3,Tlr4,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+Socs3,Tnf,BiologicalProcess,GO:0045597,Positive Regulation Of Cell Differentiation
+Spp1,Tnf,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+Thbs1,Tnf,BiologicalProcess,GO:0042981,Regulation Of Apoptotic Process
+Actb,Actr10,Interact,N/A,N/A
+Actb,C3,Interact,N/A,N/A
+Actb,Cd9,Interact,N/A,N/A
+Actb,Chil3,Interact,N/A,N/A
+Actb,Coro1a,Interact,N/A,N/A
+Actb,Ctsl,Interact,N/A,N/A
+Actb,Ctss,Interact,N/A,N/A
+Actb,Cxcl10,Interact,N/A,N/A
+Actb,Cyba,Interact,N/A,N/A
+Actb,Flot1,Interact,N/A,N/A
+Actb,Fn1,Interact,N/A,N/A
+Actb,Ftl1,Interact,N/A,N/A
+Actb,H2-D1,Interact,N/A,N/A
+Actb,H3c7,Interact,N/A,N/A
+Actb,Ifih1,Interact,N/A,N/A
+Actb,Ifit3,Interact,N/A,N/A
+Actb,Iqgap1,Interact,N/A,N/A
+Actb,Itgb4,Interact,N/A,N/A
+Actb,Lcn2,Interact,N/A,N/A
+Actb,Lcp1,Interact,N/A,N/A
+Actb,Nfkbia,Interact,N/A,N/A
+Actb,Plin2,Interact,N/A,N/A
+Actb,Rplp0,Interact,N/A,N/A
+Actb,S100a10,Interact,N/A,N/A
+Actb,S100a4,Interact,N/A,N/A
+Actb,S100a8,Interact,N/A,N/A
+Actb,Socs3,Interact,N/A,N/A
+Actb,Spp1,Interact,N/A,N/A
+Actb,Thbs1,Interact,N/A,N/A
+Actb,Tpm3,Interact,N/A,N/A
+Actb,Tpm4,Interact,N/A,N/A
+Cxcl10,Fn1,Interact,N/A,N/A
+Cxcl10,Gbp2,Interact,N/A,N/A
+Cxcl10,Gbp3,Interact,N/A,N/A
+Cxcl10,H2-D1,Interact,N/A,N/A
+Cxcl10,Ifih1,Interact,N/A,N/A
+Cxcl10,Ifit3,Interact,N/A,N/A
+Cxcl10,Ifitm3,Interact,N/A,N/A
+Cxcl10,Iigp1,Interact,N/A,N/A
+Cxcl10,Lcn2,Interact,N/A,N/A
+Cxcl10,Nfkbia,Interact,N/A,N/A
+Cxcl10,Samhd1,Interact,N/A,N/A
+Cxcl10,Socs3,Interact,N/A,N/A
+Cxcl10,Spp1,Interact,N/A,N/A
+Cxcl10,Thbs1,Interact,N/A,N/A
+Fn1,H3c7,Interact,N/A,N/A
+Fn1,Iqgap1,Interact,N/A,N/A
+Fn1,Itgb4,Interact,N/A,N/A
+Fn1,Lcn2,Interact,N/A,N/A
+Fn1,Nfkbia,Interact,N/A,N/A
+Fn1,S100a4,Interact,N/A,N/A
+Fn1,Serpina3n,Interact,N/A,N/A
+Fn1,Spp1,Interact,N/A,N/A
+Fn1,Tgfbi,Interact,N/A,N/A
+Fn1,Thbs1,Interact,N/A,N/A
+H2-T23,Ifit3,Interact,N/A,N/A
+H2-T23,Iigp1,Interact,N/A,N/A
+Nfkbia,Socs3,Interact,N/A,N/A
+Nfkbia,Thbs1,Interact,N/A,N/A
+Socs3,Thbs1,Interact,N/A,N/A
+Spp1,Thbs1,Interact,N/A,N/A
+Thbs1,Tpm4,Interact,N/A,N/A

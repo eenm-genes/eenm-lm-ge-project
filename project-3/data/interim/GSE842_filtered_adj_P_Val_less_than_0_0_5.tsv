@@ -1,0 +1,89 @@
+ID	adj.P.Val	P.Value	F	Gene.symbol	Gene.title	Gene.ID
+104374_at	0,000123	1.17e-08	302.890.957	Serpina3n	serine (or cysteine) peptidase inhibitor, clade A, member 3N	20716
+92852_at	0,003243	8.42e-07	108.529.715	Fn1	fibronectin 1	14268
+102860_at	0,003243	9.23e-07	106.141.066	Serpina3g	serine (or cysteine) peptidase inhibitor, clade A, member 3G	20715
+103448_at	0,007617	3.50e-06	76.573.091	S100a8	S100 calcium binding protein A8 (calgranulin A)	20201
+92223_at	0,007617	5.01e-06	70.046.328	C1qc	complement component 1, q subcomponent, C chain	12262
+161969_f_at	0,007617	5.32e-06	69.017.606	Capg	capping protein (actin filament), gelsolin-like	12332
+92770_at	0,007617	5.63e-06	68.040.349	S100a6	S100 calcium binding protein A6 (calcyclin)	20200
+160894_at	0,007617	5.78e-06	67.599.766	Cebpd	CCAAT/enhancer binding protein (C/EBP), delta	12609
+97013_f_at	0,009121	7.79e-06	62.746.716	Cyba	cytochrome b-245, alpha polypeptide	13057
+96020_at	0,009121	8.65e-06	61.126.131	C1qb	complement component 1, q subcomponent, beta polypeptide	12260
+104388_at	0,011454	1.35e-05	54.679.517	Ccl9	chemokine (C-C motif) ligand 9	20308
+161819_f_at	0,011454	1.36e-05	54.560.368	Laptm5	lysosomal-associated protein transmembrane 5	16792
+94939_at	0,011454	1.52e-05	53.055.166	Cd53	CD53 antigen	12508
+96764_at	0,011454	1.54e-05	52.904.418	Iigp1	interferon inducible GTPase 1	60440
+98600_at	0,011454	1.63e-05	52.118.563	LOC102637129///Gm12854///S100a11-ps///S100a11	protein S100-A11 pseudogene///predicted gene 12854///S100 calcium binding protein A11, pseudogene///S100 calcium binding protein A11	102637129///100502897///277089///20195
+92731_at	0,011471	1.82e-05	5.064.758	Ptx3	pentraxin related gene	19288
+94278_at	0,011471	1.85e-05	50.469.161	Lcp1	lymphocyte cytosolic protein 1	18826
+94425_at	0,011471	2.04e-05	49.244.784	Ly86	lymphocyte antigen 86	17084
+160253_at	0,011471	2.24e-05	48.058.429	Ifitm3	interferon induced transmembrane protein 3	66141
+101963_at	0,011471	2.25e-05	48.034.287	Ctsl	cathepsin L	13039
+94834_at	0,011471	2.29e-05	47.830.769	Ctsh	cathepsin H	13036
+98543_at	0,012119	2.53e-05	46.608.165	Ctss	cathepsin S	13040
+160255_at	0,01251	2.91e-05	4.497.289	Ahnak	AHNAK nucleoprotein (desmoyokin)	66395
+101213_at	0,01251	2.96e-05	44.786.082	Rplp0	ribosomal protein, large, P0	11837
+160564_at	0,01251	2.97e-05	44.742.293	Lcn2	lipocalin 2	16819
+92877_at	0,01528	3.87e-05	4.179.942	Tgfbi	transforming growth factor, beta induced	21810
+98562_at	0,01528	3.91e-05	41.665.974	C1qa	complement component 1, q subcomponent, alpha polypeptide	12259
+92539_at	0,016928	4.50e-05	40.197.926	S100a10	S100 calcium binding protein A10 (calpactin)	20194
+101093_at	0,017796	4.90e-05	39.321.561	Col4a1	collagen, type IV, alpha 1	12826
+104606_at	0,019697	6.41e-05	36.656.695	Cd52	CD52 antigen	23833
+93078_at	0,019697	6.68e-05	36.266.354	Ly6a	lymphocyte antigen 6 complex, locus A	110454
+101393_at	0,019697	6.71e-05	36.226.716	Anxa3	annexin A3	11745
+95095_at	0,019697	6.75e-05	36.163.607	Flot1	flotillin 1	14251
+103202_at	0,019697	6.75e-05	36.158.025	Gbp3	guanylate binding protein 3	55932
+96041_at	0,019697	6.87e-05	35.994.513	Gm15453///Rbm3	predicted gene 15453///RNA binding motif protein 3	100043257///19652
+93265_at	0,019697	7.31e-05	35.420.822	Tpm3	tropomyosin 3, gamma	59069
+95661_at	0,019697	7.36e-05	35.359.018	Cd9	CD9 antigen	12527
+100561_at	0,019697	7.47e-05	35.211.736	Iqgap1	IQ motif containing GTPase activating protein 1	29875
+98472_at	0,019697	7.53e-05	35.144.573	H2-T-ps///H2-T23	histocompatibility 2, T region locus, pseudogene///histocompatibility 2, T region locus 23	667803///15040
+95542_at	0,019697	7.71e-05	34.922.522	Tpm4	tropomyosin 4	326618
+93869_s_at	0,019697	7.76e-05	34.871.452	Bcl2a1d///Bcl2a1c///Bcl2a1a	B cell leukemia/lymphoma 2 related protein A1d///B cell leukemia/lymphoma 2 related protein A1c///B cell leukemia/lymphoma 2 related protein A1a	12047///12046///12044
+99051_at	0,019697	7.85e-05	34.763.347	S100a4	S100 calcium binding protein A4	20198
+161410_r_at	0,020847	8.50e-05	34.037.015			
+AFFX-b-ActinMur/M12481_M_st	0,021954	9.16e-05	33.372.897	Actb	actin, beta	11461
+93714_f_at	0,022203	9.48e-05	33.076.549	H2-K2	histocompatibility 2, K region locus 2	630499
+102104_f_at	0,023471	1.02e-04	32.405.257	Ms4a6c	membrane-spanning 4-domains, subfamily A, member 6C	73656
+160078_at	0,024264	1.09e-04	31.912.566	Ppp1r14b	protein phosphatase 1, regulatory (inhibitor) subunit 14B	18938
+103305_at	0,024264	1.10e-04	31.760.542	Itgb4	integrin beta 4	192897
+93956_at	0,024401	1.14e-04	31.461.482	Ifit3	interferon-induced protein with tetratricopeptide repeats 3	15959
+96648_at	0,024401	1.17e-04	31.311.437	Coro1a	coronin, actin binding protein 1A	12721
+161057_at	0,024401	1.18e-04	31.206.018	Actr10	ARP10 actin-related protein 10	56444
+92850_at	0,030998	1.54e-04	29.060.615	Rrbp1	ribosome binding protein 1	81910
+104149_at	0,030998	1.58e-04	28.850.967	Nfkbia	nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, alpha	18035
+97574_f_at	0,030998	1.59e-04	28.828.132	Ighg3	Immunoglobulin heavy constant gamma 3	380795
+97519_at	0,031431	1.67e-04	28.444.876	Spp1	secreted phosphoprotein 1	20750
+99872_s_at	0,031431	1.67e-04	28.441.225	LOC100862446///Ftl1-ps2///Ftl1	ferritin light chain 1///ferritin light polypeptide, pseudogene 2///ferritin light polypeptide 1	100862446///434624///14325
+161064_f_at	0,031937	1.73e-04	28.184.362	Phf7	PHD finger protein 7	71838
+97125_f_at	0,033637	1.85e-04	27.662.624	H2-K1	histocompatibility 2, K1, K region	14972
+101487_f_at	0,033837	1.93e-04	27.365.774	Ly6e	lymphocyte antigen 6 complex, locus E	17069
+93290_at	0,033837	1.95e-04	27.277.583	Pnp	purine-nucleoside phosphorylase	18950
+97949_at	0,033837	1.97e-04	27.184.887	Fgl2	fibrinogen-like protein 2	14190
+103080_at	0,033837	1.99e-04	27.124.464	Samhd1	SAM domain and HD domain, 1	56045
+95705_s_at	0,0339	2.03e-04	26.993.535	Actb	actin, beta	11461
+104701_at	0,033982	2.09e-04	26.771.589	Bhlhe40	basic helix-loop-helix family, member e40	20893
+97206_at	0,033982	2.10e-04	26.748.096	Spint1	serine protease inhibitor, Kunitz type 1	20732
+101578_f_at	0,035819	2.24e-04	26.258.912	Actb	actin, beta	11461
+93497_at	0,042474	2.70e-04	24.962.253	C3	complement component 3	12266
+96657_at	0,042531	2.77e-04	24.792.407	Sat1	spermidine/spermine N1-acetyl transferase 1	20229
+92694_at	0,042531	2.78e-04	24.752.567	Chil3	chitinase-like 3	12655
+100711_at	0,043132	2.86e-04	24.560.032	LOC102642173///Rpl10a	60S ribosomal protein L10a-like///ribosomal protein L10A	102642173///19896
+103446_at	0,043266	2.91e-04	24.443.631	Ifih1	interferon induced with helicase C domain 1	71586
+93066_at	0,043952	3.00e-04	24.244.609	Grn	granulin	14824
+93592_at	0,045768	3.17e-04	23.884.762	Apod	apolipoprotein D	11815
+161594_f_at	0,046241	3.25e-04	23.727.679	Galm	galactose mutarotase	319625
+93858_at	0,047619	3.41e-04	23.402.568	Cxcl10	chemokine (C-X-C motif) ligand 10	15945
+98589_at	0,047619	3.44e-04	23.350.873	Plin2	perilipin 2	11520
+95647_f_at	0,047619	3.52e-04	23.210.519	Mob1a	MOB kinase activator 1A	232157
+102077_at	0,047619	3.52e-04	2.319.553			
+96207_at	0,047968	3.61e-04	23.044.157	Rbms1	RNA binding motif, single stranded interacting protein 1	56878
+160668_at	0,047968	3.64e-04	22.986.566	Ogfr	opioid growth factor receptor	72075
+162206_f_at	0,048506	3.73e-04	22.836.576	Socs3	suppressor of cytokine signaling 3	12702
+93120_f_at	0,048712	3.84e-04	22.655.919	H2-K1	histocompatibility 2, K1, K region	14972
+99378_f_at	0,048712	3.84e-04	22.655.506	H2-Q4	histocompatibility 2, Q region locus 4	15015
+96416_f_at	0,048886	3.92e-04	22.525.667	Hist1h3a///Hist2h3b///Hist1h3i///Hist1h3h///Hist1h3e///Hist1h3b///Hist1h3d///Hist1h3c///Hist1h3f///Hist1h3g///Hist2h3c2///Hist2h3c1	histone cluster 1, H3a///histone cluster 2, H3b///histone cluster 1, H3i///histone cluster 1, H3h///histone cluster 1, H3e///histone cluster 1, H3b///histone cluster 1, H3d///histone cluster 1, H3c///histone cluster 1, H3f///histone cluster 1, H3g///histone cluster 2, H3c2///histone cluster 2, H3c1	360198///319154///319153///319152///319151///319150///319149///319148///260423///97908///97114///15077
+104597_at	0,048886	4.01e-04	22.372.203	Gbp2	guanylate binding protein 2	14469
+104499_at	0,048886	4.03e-04	22.351.288	Homer1	homer scaffolding protein 1	26556
+160469_at	0,048886	4.03e-04	2.233.834	Pald1///Thbs1	phosphatase domain containing, paladin 1///thrombospondin 1	27355///21825
+97540_f_at	0,048913	4.08e-04	2.226.386	H2-D1	histocompatibility 2, D region locus 1	14964

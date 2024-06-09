@@ -1,0 +1,4 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Actb	Tjp1	10090.ENSMUSP00000098066	10090.ENSMUSP00000099652	0	0	0	0	0	0.220	0.900	0.824	0.985
+Dlg5	Scrib	10090.ENSMUSP00000087879	10090.ENSMUSP00000002603	0	0	0	0.547	0.073	0.093	0.800	0.221	0.851
+Scrib	Tjp1	10090.ENSMUSP00000002603	10090.ENSMUSP00000099652	0	0	0	0.547	0.054	0.071	0	0.534	0.555

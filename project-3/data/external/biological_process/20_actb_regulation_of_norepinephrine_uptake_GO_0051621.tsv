@@ -1,0 +1,2 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Actb	Snca	10090.ENSMUSP00000098066	10090.ENSMUSP00000109907	0	0	0	0	0.066	0.066	0	0.643	0.661

@@ -1,0 +1,4 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Actb	Actg1	10090.ENSMUSP00000098066	10090.ENSMUSP00000071486	0	0	0.047	0.987	0.852	0.222	0.900	0.511	0.993
+Actb	Cldn3	10090.ENSMUSP00000098066	10090.ENSMUSP00000091799	0	0	0	0	0.046	0.043	0	0.479	0.482
+Cldn19	Cldn3	10090.ENSMUSP00000081334	10090.ENSMUSP00000091799	0	0	0.056	0.913	0	0.063	0.650	0.476	0.816

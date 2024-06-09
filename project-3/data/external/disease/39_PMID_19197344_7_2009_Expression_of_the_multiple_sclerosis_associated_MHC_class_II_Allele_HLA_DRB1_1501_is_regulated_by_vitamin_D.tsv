@@ -1,0 +1,6 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Ciita	Il7r	10090.ENSMUSP00000023147	10090.ENSMUSP00000003981	0	0	0.407	0	0.177	0	0	0.251	0.602
+Ciita	Ifng	10090.ENSMUSP00000023147	10090.ENSMUSP00000063800	0	0	0	0	0.080	0	0	0.705	0.717
+Ifng	Il7r	10090.ENSMUSP00000063800	10090.ENSMUSP00000003981	0	0	0	0	0.110	0	0.650	0.797	0.931
+Ifng	Il2ra	10090.ENSMUSP00000063800	10090.ENSMUSP00000028111	0	0	0	0	0.378	0	0.650	0.844	0.963
+Il2ra	Il7r	10090.ENSMUSP00000028111	10090.ENSMUSP00000003981	0	0	0	0	0.114	0	0	0.877	0.886

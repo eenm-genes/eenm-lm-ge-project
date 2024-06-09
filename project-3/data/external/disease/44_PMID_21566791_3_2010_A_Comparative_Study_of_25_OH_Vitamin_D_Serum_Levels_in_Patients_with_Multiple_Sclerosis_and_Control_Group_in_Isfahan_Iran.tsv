@@ -1,0 +1,4 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Il6	Tnf	10090.ENSMUSP00000026845	10090.ENSMUSP00000025263	0	0	0	0	0.301	0	0	0.962	0.972
+Il6	Ngf	10090.ENSMUSP00000026845	10090.ENSMUSP00000102538	0	0	0	0	0.059	0	0	0.735	0.740
+Ngf	Tnf	10090.ENSMUSP00000102538	10090.ENSMUSP00000025263	0	0	0	0	0	0	0	0.742	0.742

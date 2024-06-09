@@ -1,0 +1,2 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Cma1	Ctss	10090.ENSMUSP00000022834	10090.ENSMUSP00000015667	0	0	0	0	0	0	0	0.525	0.525

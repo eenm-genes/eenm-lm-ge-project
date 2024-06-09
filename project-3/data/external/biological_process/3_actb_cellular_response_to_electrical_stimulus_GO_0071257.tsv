@@ -1,0 +1,6 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Actb	Calr	10090.ENSMUSP00000098066	10090.ENSMUSP00000003912	0	0	0	0	0.150	0	0	0.579	0.627
+Actb	Pten	10090.ENSMUSP00000098066	10090.ENSMUSP00000013807	0	0	0	0	0.053	0.059	0	0.721	0.730
+Actb	Slc9a1	10090.ENSMUSP00000098066	10090.ENSMUSP00000030669	0	0	0	0	0	0	0	0.414	0.414
+Actb	Rpe65	10090.ENSMUSP00000098066	10090.ENSMUSP00000143654	0	0	0	0	0	0	0	0.424	0.424
+Gnat1	Rpe65	10090.ENSMUSP00000010205	10090.ENSMUSP00000143654	0	0	0	0	0.118	0.066	0	0.738	0.766
