@@ -7,9 +7,25 @@
 A esclerose múltipla (EM) é uma doença crônica, progressiva e autoimune que afeta o sistema nervoso central, caracterizada pela neurodegeneração e desmielinização, resultando no atraso ou impedimento da transmissão dos impulsos nervosos devido à destruição da bainha de mielina. Isso leva a sintomas como fraqueza nos membros inferiores, espasticidade, urgência urinária, fadiga, atrofia muscular, espasmos e alterações cognitivas. A EM é multifatorial, envolvendo fatores imunológicos, genéticos e ambientais, destacando-se a vitamina D. Indivíduos com níveis mais baixos dessa vitamina têm maior incidência de EM, com maior prevalência em países de alta latitude, menor exposição solar e consequentemente menor vitamina D. Estudos indicam que mulheres, caucasianos, adultos e residentes do norte europeu têm maior probabilidade de desenvolver a doença.
 </div>
 
+> Descrição resumida do tema do projeto. Sugestão de roteiro (cada item tipicamente tratado em uma ou poucas frases):
+>
+> Contextualização do projeto
+>
+> Caracterização do problema
+>
+> Motivação
+>
+> Relevância
+>
+> Trabalhos relacionados
+>
+> Indicação (bastante resumida) da análise proposta
+>
+> Indicação (bastante resumida) dos resultados alcançados
+
 # Slides
 
-[Apresentação Parte 2](assets/slides/P2%20-%20%20Expressão%20Gênica%20de%20Vitamina%20D%20no%20tratamento%20de%20Esclerose%20Múltipla.pdf)
+> Coloque aqui o link para o PDF da apresentação da parte 3.
 
 # Fundamentação Teórica
 <div align="justify">
@@ -20,12 +36,19 @@ O calcitriol é comumente associado à regulação da homeostase do cálcio, env
 O tratamento com suplementação da vitamina tem, como lógica, a ação dos metabólitos agindo como moduladores parácrinos imunitários, com atividade sobre as células pró-inflamatórias T e produção de citocinas que colaboraram para a patogênese da esclerose múltipla [5]. Assim, existem estudos que mostram possíveis eventos positivos no uso da vitamina D como tratamento ou profilaxia de doenças autoimunes pelo importante papel da regulação dos sistema imunológico [3]. 
 </div>
 
+> Fundamentação teórica do problema em saúde/biologia. Cite artigos tomados como base e em que problema.
+
 # Perguntas de Pesquisa
 <div align="justify">
 RQ1: A administração de vitamina D altera a expressão de quais genes em pacientes com esclerose múltipla em comparação com indivíduos saudáveis?
+</div>
 
+<div align="justify">
 RQ2: A administração de vitamina D está correlacionada a expressão de genes relacionados a processos imunológicos em pacientes com esclerose múltipla?
 </div>
+
+> Perguntas de pesquisa (revisadas e atualizadas) que o projeto responde ou hipóteses que foram avaliadas, enunciadas de maneira objetiva e verificável.
+> Apresente aqui como o projeto ajudou a responder as perguntas de pesquisa.
 
 # Metodologia
 <div align="justify">
@@ -33,6 +56,9 @@ A metodologia seguiu um pipeline no qual foi realizada a seleção de bases de e
 
 A utilização da técnica teve por objetivo saber quais foram os genes mais centrais que estão envolvidos na administração da vitamina D em pacientes com escloresose múltipla, comparando com indivíduos saudáveis e quais comunidades esses genes fazem parte. 
 </div>
+
+> Proposta de metodologia incluindo especificação de quais as técnicas/métricas de Ciência de Redes que estão sendo usadas no projeto,
+> tais como: detecção de comunidades, análise de centralidade, predição de links, ou a combinação de uma ou mais técnicas. Descreva o que perguntas pretende endereçar com a técnica escolhida.
 
 ![Metodologia](/project-3-final/assets/images/METODOLOGIA.png)
 
@@ -141,25 +167,35 @@ Para realizar a análise vetorial dos dados, foi necessário consolidar cada amo
 Finalmente, para reduzir a quantidade de proteínas analisadas, foram filtradas aquelas que apresentaram maior diferença de expressão, totalizando 89 proteínas. A utilização desta base de dados foi crucial para obter os resultados iniciais, permitindo a identificação de clusters de proteínas com padrões semelhantes e a descoberta de comunidades específicas. Com o contínuo trabalho de enriquecimento da base de dados, espera-se conectar essas proteínas com determinados pathways e identificar relações mais implícitas entre a vitamina D e o tratamento da Esclerose Múltipla. Isso poderá proporcionar uma compreensão mais profunda dos mecanismos subjacentes e potencialmente revelar novas direções para futuras pesquisas.
 </div>
 
+> Faça uma descrição sobre o que concluiu sobre esta base. Sugere-se que respondam perguntas ou forneçam informações indicadas a seguir:
+> * O que descobriu sobre essa base?
+> * Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
+
 ## Modelo Lógico
 
 ![Modelo Lógico](/project-3-final/assets/images/MODELO_LOGICO.png)
 
 ## Integração entre Bases
 
-> Descreva se houve desafios de integração de fontes de dados.
+> Descreva se houve desafios de integração de fontes de dados e etapas para a mesma.
 
-## Análise Preliminar
+## Análises Realizadas
 <div align="justify">  
-Foram encontrados esses genes como os mais centrais na análise das redes: Actb, Ctss, Cxcl10, Fn1, Ifitm3. O actb é um gene que codifica actina envolvida na motilidade, estrutura e comunicação intercelular, além de estar envolida na regulação da dinâmica da actina para a formação de copo fagocitário, importante para as células fagocitárias do sistema imune como macrófagos e células dendríticas [8]. O gene Ctss codifica uma proteína que está envolvida na apresentação de MCH de classe II, relacionada diretamente na patologia de muitas doenças inflamatórias e autoimunes [9]. O gene Cxcl10 codifica uma quimiocina relacionada com a estimulação de monócitos, natural killer,  migração de células T e modulação da expressão de moléculas de adesão [10]. O gene Fn1 codifica a fibronectina que está envolvida na adesão celular, migração celular, sistema imunológico, mineralização dos osteoblastos e inibe a ativação de monócitos [11]. O gene Ifitm3 está relacionado com a sinalização de citocinas do sistema imunológico, mais especificamente os interferons [12]. Dessa maneira, percebe-se que todos os genes evidenciados estão diretamente relacionadas a processos inflamatórios desenvolvidos através do sistema imunológico e por isso estão relacionados aos receptores de vitamina D presentes na células imunes e à esclerose múltipla.
 </div>
+
+> Apresente aqui uma análise dos dados.
+> Utilize gráficos que descrevam os aspectos principais da base que são relevantes para as perguntas de pesquisa consideradas.
+>
+> Nesta seção ou na seção de Resultados podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
+>
+> Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.
 
 
 ## Evolução do Projeto
-> Este item não é obrigatório neste estágio, mas pode ser uma preparação para o estágio final.
 > Relatório de evolução, descrevendo as evoluções na modelagem do projeto, dificuldades enfrentadas, mudanças de rumo, melhorias e lições aprendidas. Referências aos diagramas, modelos e recortes de mudanças são bem-vindos.
-> Podem ser apresentados destaques na evolução dos modelos conceitual e lógico. O modelo inicial e intermediários (quando relevantes) e explicação de refinamentos, mudanças ou evolução do projeto que fundamentaram as decisões.
+> Podem ser apresentados destaques na evolução do modelo lógico. O modelo inicial e intermediários (quando relevantes) e explicação de refinamentos, mudanças ou evolução do projeto que fundamentaram as decisões.
 > Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
+
 
 # Ferramentas
 
@@ -171,6 +207,33 @@ Foram encontrados esses genes como os mais centrais na análise das redes: Actb,
 ### [Cytoscape](https://cytoscape.org/)
 - **Identificação de Hubs Genéticos**: Nós mais conectados na rede.
 - **Centralidade e Expressão Gênica**: Importância dos nós com base em medidas de centralidade e expressão gênica.
+
+# Resultados
+
+> Esta pode ser uma seção independente ou combinada com a seção de Análises Realizadas.
+>
+> Descrição dos resultados mais importantes obtidos.
+>
+> Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de Análises Realizadas (o que for mais pertinente).
+
+# Discussão
+
+> Discussão dos resultados. Relacionar os resultados com as perguntas de pesquisa ou hipóteses avaliadas.
+>
+> A discussão dos resultados também pode ser feita opcionalmente na seção de Resultados, na medida em que os resultados são apresentados. Aspectos importantes a serem discutidos: Por que seu modelo alcançou (ou não) um bom resultado? É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?
+
+# Conclusão
+
+> Destacar as principais conclusões obtidas no desenvolvimento do projeto.
+>
+> Destacar os principais desafios enfrentados.
+>
+> Principais lições aprendidas.
+
+# Trabalhos Futuros
+
+> O que poderia ser melhorado se houvesse mais tempo?
+> Quais possíveis desdobramentos este projeto pode ter?
 
 # Referências Bibliográficas
 <div align="justify">
