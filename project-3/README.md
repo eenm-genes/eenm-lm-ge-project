@@ -22,7 +22,7 @@ O tratamento com suplementação da vitamina tem, como lógica, a ação dos met
 
 # Perguntas de Pesquisa
 <div align="justify">
-RQ1: A administração de vitamina D altera a expressão de genes de quais genes em pacientes com esclerose múltipla em comparação com indivíduos saudáveis?
+RQ1: A administração de vitamina D altera a expressão de quais genes em pacientes com esclerose múltipla em comparação com indivíduos saudáveis?
 
 RQ2: A administração de vitamina D está correlacionada a expressão de genes relacionados a processos imunológicos em pacientes com esclerose múltipla?
 </div>
