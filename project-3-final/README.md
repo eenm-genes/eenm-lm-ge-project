@@ -34,7 +34,7 @@ A metodologia seguiu um pipeline no qual foi realizada a seleção de bases de e
 A utilização da técnica teve por objetivo saber quais foram os genes mais centrais que estão envolvidos na administração da vitamina D em pacientes com escloresose múltipla, comparando com indivíduos saudáveis e quais comunidades esses genes fazem parte. 
 </div>
 
-![Metodologia](/project-3/assets/images/METODOLOGIA.png)
+![Metodologia](/project-3-final/assets/images/METODOLOGIA.png)
 
 ## Bases de Dados e Evolução
 
@@ -143,7 +143,7 @@ Finalmente, para reduzir a quantidade de proteínas analisadas, foram filtradas 
 
 ## Modelo Lógico
 
-![Modelo Lógico](/project-3/assets/images/MODELO_LOGICO.png)
+![Modelo Lógico](/project-3-final/assets/images/MODELO_LOGICO.png)
 
 ## Integração entre Bases
 
