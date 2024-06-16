@@ -209,6 +209,13 @@ Finalmente, para reduzir a quantidade de proteínas analisadas, foram filtradas 
 - **Centralidade e Expressão Gênica**: Importância dos nós com base em medidas de centralidade e expressão gênica.
 
 # Resultados
+<div align="justify">
+Com base nas redes complexas criadas a partir do estudo de Spach et al (2004) e com o enriquecimento de outras bases, observa-se principalmente a comunidade de 4 genes: Actb, Cxcl10, Fn1 e Nfkbia, indicando que a administração de vitamina D altera a expressão desses genes em pacientes com esclerose múltipla em comparação com indivíduos saudáveis. Como demonstrado nas entregas intermediárias do projeto, o gene Actb codifica a actina envolvida na motilidade, estrutura e comunicação intercelular, além de estar envolvida na regulação da dinâmica da actina para a formação de copo fagocitário, importante para as células fagocitárias do sistema imune como macrófagos e células dendríticas [9]. O gene Cxcl10 codifica uma quimiocina relacionada com a estimulação de monócitos, natural killer, migração de células T e modulação da expressão de moléculas de adesão [11]. O gene Fn1 codifica a fibronectina que está envolvida na adesão celular, migração celular, sistema imunológico, mineralização dos osteoblastos e inibe a ativação de monócitos [12]. O gene Nfkbia codifica um membro da família de inibidores NF-kappa-B, que contém múltiplos domínios de repetição ankrin, de maneira que a proteína codificada interage com dímeros REL para inibir os complexos NF-kappa-B/REL que estão envolvidos nas respostas inflamatórias [13].
+Infelizmente, não foi encontrada relação direta entre esses genes, a esclerose múltipla e o tratamento com vitamina D, por meio dos dados utilizados e dos artigos. Entretanto, consegue-se fazer uma relação desses genes com processos biológicos que estão conectados com processos imunológicos, considerando que a base da EM é autoimune, ou seja, as próprias células do sistema imunológico atacam o sistema nervoso central provocando a desmielinazação e seus sintomas [1]. Os principais processos biológicos encontrados foram: Regulation Of Apoptotic Process (GO:0042981), Defense response (GO:0006952); Immune Response (GO:0006955) e Positive Regulation Of Inflammatory Response (GO:0050729). 
+O gene Cxcl10 está envolvido nos processos de regulação da apoptose e resposta defensiva, sendo uma quimiocina que exerce um potente efeito quimiotático nos linfócitos T ativados, principalmente durante infecções virais [14], que podem ser uma das alterações ambientais que permeiam a EM. Nesse sentido, o Cxcl10 desencadeia apoptose em vários modelos celulares, como os neurônios em conjunto com outras citocinas liberadas no processo de inflamação, como IL 2 e IFNα conforme foi demonstrado por Sihdamed et al (2012). Com isso, percebe-se que o resultado de aumento da expressão diferencial do gene no estudo de esclerose múltipla e vitamina D indica um resultado satisfatório de pesquisa, de forma que sua expressão está envolvida na apoptose das células T que atacam as bainhas de mielina, assim, por ter sua apoptose aumentada, ocorre a diminuição da desmielinização e consequentemente dos sintomas e da progressão da doença. 
+O gene Kfkbia está relacionado com a regulação positiva da resposta inflamatória, pois ele é o inibidor de NF-κB que impulsiona a expressão gênica inflamatória [15]. Quando ativados, os fatores de transcrição NF-κB aumentam a expressão de genes importantes para o crescimento celular, inibição da apoptose, metástase e angiogênese [16]. Dessa maneira, o NFkbia atua impedindo a ação de NF-kb auxiliando nos processos de apoptose e da resposta inflamatória como também foi visto nos outros processos. Os genes Actb e fn1 estão envolvidos no processo de regulação da apoptose, porém não foi encontrados estudos que envolvam a relação desses parâmetros.
+Além disso, pelos grafos obtidos no projeto, percebe-se que todos esses genes e processos biológicos estão relacionados com a resposta imunológica pela relação com interleucinas - como IL18, IlL33, IL4, IL6 - fatores de necrose tumoral e receptores toll-like. Sendo assim, os resultados se mostram promissores para a relação entre a esclerose múltipla e a vitamina D, mas não foi ótimo pelo resultado pela falta de referências bibliográficas acerca do tema, enfatizando a necessidade de mais ensaios, experimentos e pesquisas que consigam ligar esses parâmetros diretamente. 
+</div>
 
 > Esta pode ser uma seção independente ou combinada com a seção de Análises Realizadas.
 >
@@ -238,29 +245,33 @@ Finalmente, para reduzir a quantidade de proteínas analisadas, foram filtradas 
 # Referências Bibliográficas
 <div align="justify">
 
-1. **NOGUEIRA, Raquel Araujo et al**. The vitamin D and immunological performance: a perspective within multiple sclerosis. 2021. Disponível em: [https://rsdjournal.org/index.php/rsd/article/view/22575/20285](https://rsdjournal.org/index.php/rsd/article/view/22575/20285) Acesso em: 21 mai. 2024.
+1. **NOGUEIRA, Raquel Araujo et al**. The vitamin D and immunological performance: a perspective within multiple sclerosis. 2021. Disponível em: [https://rsdjournal.org/index.php/rsd/article/view/22575/20285]. Acesso em: 21 mai. 2024.
 
-2. **MATIAS, Francisco Gil Gonçalves**. Vitamina D e esclerose múltipla. 2009. Dissertação de Mestrado. Disponível em: [https://estudogeral.uc.pt/handle/10316/27526?locale=pt](https://estudogeral.uc.pt/handle/10316/27526?locale=pt) Acesso em: 21 mai. 2024.
+2. **MATIAS, Francisco Gil Gonçalves**. Vitamina D e esclerose múltipla. 2009. Dissertação de Mestrado. Disponível em: [https://estudogeral.uc.pt/handle/10316/27526?locale=pt]. Acesso em: 21 mai. 2024.
 
-3. **Biblioteca Mundial em Saúde**. Disponível em:  https://bvsms.saude.gov.br/eu-me-conecto-nos-nos-conectamos-30-5-dia-mundial-da-esclerose-multipla/. Acesso em: 01 jun. 2024.
+3. **Biblioteca Mundial em Saúde**. Disponível em: [https://bvsms.saude.gov.br/eu-me-conecto-nos-nos-conectamos-30-5-dia-mundial-da-esclerose-multipla/]. Acesso em: 01 jun. 2024.
 
-4. **PEREIRA, Ana Rita Rodrigues**. Relatório de Estágio e Monografia intitulada “Mecanismos Moduladores da Vitamina D na Esclerose Múltipla. 2020. Dissertação de Mestrado. Disponível em: [https://estudogeral.uc.pt/handle/10316/92941](https://estudogeral.uc.pt/handle/10316/92941) Acesso em: 21 mai. 2024.
+4. **PEREIRA, Ana Rita Rodrigues**. Relatório de Estágio e Monografia intitulada “Mecanismos Moduladores da Vitamina D na Esclerose Múltipla. 2020. Dissertação de Mestrado. Disponível em: [https://estudogeral.uc.pt/handle/10316/92941]. Acesso em: 21 mai. 2024.
 
-5. **MARQUES, Cláudia Diniz Lopes et al**. A importância dos níveis de vitamina D nas doenças autoimunes. Revista Brasileira de Reumatologia, v. 50, p. 67-80, 2010. Disponível em: [https://www.scielo.br/j/rbr/a/5BcvSsQGhJPXXD8Q9Pzff8H/?lang=pt#](https://www.scielo.br/j/rbr/a/5BcvSsQGhJPXXD8Q9Pzff8H/?lang=pt#) Acesso em: 21 mai. 2024.
+5. **MARQUES, Cláudia Diniz Lopes et al**. A importância dos níveis de vitamina D nas doenças autoimunes. Revista Brasileira de Reumatologia, v. 50, p. 67-80, 2010. Disponível em: [https://www.scielo.br/j/rbr/a/5BcvSsQGhJPXXD8Q9Pzff8H/?lang=pt#]. Acesso em: 21 mai. 2024.
 
-6. **PEREIRA, Isabel Teresa Pereira Barros da Cunha**. Importância da Vitamina D na esclerose múltipla: Monografia: The role of Vitamin D in multiple sclerosis. 2009. Disponível em: [https://repositorio-aberto.up.pt/handle/10216/54674](https://repositorio-aberto.up.pt/handle/10216/54674) Acesso em: 21 mai. 2024.
+6. **PEREIRA, Isabel Teresa Pereira Barros da Cunha**. Importância da Vitamina D na esclerose múltipla: Monografia: The role of Vitamin D in multiple sclerosis. 2009. Disponível em: [https://repositorio-aberto.up.pt/handle/10216/54674]. Acesso em: 21 mai. 2024.
 
-7. Naive, EAE placebo-treated and EAE 1,25(OH)2D3-treated groups. Disponível em: [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE842](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE842)
+7. Naive, EAE placebo-treated and EAE 1,25(OH)2D3-treated groups. Disponível em: [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE842].
 
-8. **Karen M. Spach et al.** Gene expression analysis suggests that 1,25-dihydroxyvitamin D3 reverses experimental autoimmune encephalomyelitis by stimulating inflammatory cell apoptosis, 2004. Disponível em: [https://journals.physiology.org/doi/full/10.1152/physiolgenomics.00003.2004](https://journals.physiology.org/doi/full/10.1152/physiolgenomics.00003.2004) Acesso em: 21 mai. 2024.
+8. **Karen M. Spach et al.** Gene expression analysis suggests that 1,25-dihydroxyvitamin D3 reverses experimental autoimmune encephalomyelitis by stimulating inflammatory cell apoptosis, 2004. Disponível em: [https://journals.physiology.org/doi/full/10.1152/physiolgenomics.00003.2004]. Acesso em: 21 mai. 2024.
 
-9. **ACTB Gene** - Actin Beta. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=ACTB](https://www.genecards.org/cgi-bin/carddisp.pl?gene=ACTB) Acesso em: 21 mai. 2024.
+9. **ACTB Gene** - Actin Beta. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=ACTB]. Acesso em: 21 mai. 2024.
 
-10. **CTSS Gene** - Cathepsin S. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTSS](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTSS) Acesso em: 21 mai. 2024.
+11. **CXCL10 Gene** - C-X-C Motif Chemokine Ligand 10. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL10]. Acesso em: 21 mai. 2024.
 
-11. **CXCL10 Gene** - C-X-C Motif Chemokine Ligand 10. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL10](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL10) Acesso em: 21 mai. 2024.
+12. **FN1 Gene** - Fibronectin 1. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=FN1]. Acesso em: 21 mai. 2024.
 
-12. **FN1 Gene** - Fibronectin 1. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=FN1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=FN1) Acesso em: 21 mai. 2024.
+13. **NFKBIA Gene** - NFKB Inhibitor. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFKBIA]. Acesso em: 05 jun 2024.
 
-13. **IFITM3 Gene** - Interferon Induced Transmembrane Protein 3. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=IFITM3](https://www.genecards.org/cgi-bin/carddisp.pl?gene=IFITM3) Acesso em: 21 mai. 2024.
+14. **Sidahmed, Abubaker M.E. et al.** CXCL10 contributes to p38-mediated apoptosis in primary T lymphocytes in vitro. Disponível em:  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7129786/]. Acesso em: 08 jun 2024.
+
+15. **Ali, Salman et al.** Functional Genetic Variation in NFKBIA and Susceptibility to Childhood Asthma, Bronchiolitis, and Bronchopulmonary Dysplasia. Disponível em: [https://journals.aai.org/jimmunol/article/190/8/3949/39904/Functional-Genetic-Variation-in-NFKBIA-and]. Acesso em: 09 jun 2024.
+
+16. **Lowe, Julie M. et al.** Nuclear Factor-κB (NF-κB) Is a Novel Positive Transcriptional Regulator of the Oncogenic Wip1 Phosphatase. Disponível em: [https://www.sciencedirect.com/science/article/pii/S0021925819375039]. Acesso em: 09 jun 2024.
 </div>
