@@ -240,7 +240,19 @@ Além disso, pelos grafos obtidos no projeto, percebe-se que todos esses genes e
 # Trabalhos Futuros
 
 > O que poderia ser melhorado se houvesse mais tempo?
+
+Explorar outras vias biológicas, principalmente das doenças autoimunes para verificar se existem possíveis relações dessas com os genes analisados tal que possam evidenciar alguma relação direta do tratamento da esclerose múltipla com a vitamina D; essa exploração tem como motivação a identificação dos genes centrais estudados neste projeto os quais são comuns também nessas doenças, entretanto não existe um pathway que faça menção do tratamento da esclerose múltipla com a vitamina D; consequentemente não teve como demonstrar claramente por essas vias a ativação ou desativação dos genes ou que estimulem o movimento de uma célula nos processos biológicos. Além disso, o resultado final apesar de satisfatório, não foi ótimo por não haver referências bibliográficas acerca do assunto em estudo, isso mostra a necessidade de se fazer mais pesquisas como também ensaios e experimentos que possam ligá-los diretamente aos processos. 
+
+Avaliar outros genes dentre os mais expressos, se alguns deles possam dar evidências de uma possível relação direta da esclerose múltipla e o tratamento com vitamina D, pelo fato de não ter sido encontrada relação direta entre os genes mais centrais analisados. Essa avaliação tem como motivação a inclusão do gene Nfkbia que não tinha sido observada na entrega intermediária, porém foi verificada posteriomente a sua importância neste estudo. 
+
+Realizar predições de novas conexões na rede tem como motivação explorar esse tipo de análise no futuro com a finalidade de avaliar possíveis conexões novas na rede gerada neste projeto, pelo fato da rede resultar em expressão gênica de segunda ordem, ou seja, relação indireta pelas vias do processo biológico e reactome e pela inexistência um pathway específico de esclerose múltipla com vitamina D.
+
+
 > Quais possíveis desdobramentos este projeto pode ter?
+
+Os possíveis desdobramentos que este projeto pode ter é colocar em prática o que foi pesquisado e analisado, transformando-o em um material de pesquisa de modo que a ideia que se deseja alcançar resulte numa obra que seja compreendida por todos.
+
+
 
 # Referências Bibliográficas
 <div align="justify">
