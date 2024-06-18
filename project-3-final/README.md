@@ -25,7 +25,7 @@ A esclerose múltipla (EM) é uma doença crônica, progressiva e autoimune que 
 
 # Slides
 
-> Coloque aqui o link para o PDF da apresentação da parte 3.
+[Apresentação Parte 2](assets/slides/P3%20-%20%20Expressão%20Gênica%20de%20Vitamina%20D%20no%20tratamento%20de%20Esclerose%20Múltipla.pdf)
 
 # Fundamentação Teórica
 <div align="justify">
