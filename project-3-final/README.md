@@ -4,7 +4,7 @@
 # Descrição Resumida do Projeto
 
 <div align="justify">
-A esclerose múltipla (EM) é uma doença crônica, progressiva e autoimune que afeta o sistema nervoso central, caracterizada pela neurodegeneração e desmielinização, resultando no atraso ou impedimento da transmissão dos impulsos nervosos devido à destruição da bainha de mielina. Isso leva a sintomas como fraqueza nos membros inferiores, espasticidade, urgência urinária, fadiga, atrofia muscular, espasmos e alterações cognitivas. A EM é multifatorial, envolvendo fatores imunológicos, genéticos e ambientais, destacando-se a vitamina D. Indivíduos com níveis mais baixos dessa vitamina têm maior incidência de EM, com maior prevalência em países de alta latitude, menor exposição solar e consequentemente menor vitamina D. Estudos indicam que mulheres, caucasianos, adultos e residentes do norte europeu têm maior probabilidade de desenvolver a doença.
+A esclerose múltipla (EM) é uma doença autoimune caracterizada pela neurodegeneração e desmielinização, apresentando sintomas como fraqueza nos membros inferiores, espasmos, alterações cognitivas e atrofia muscular. É uma das doenças mais comuns que afetam o sistema nervoso central e acomete cerca de 2.8 milhões de pessoas no mundo. Por depender de alterações genéticas e ambientais para o seu desenvolvimento, estudos indicam que indivíduos com níveis mais baixos de vitamina D têm uma maior incidência de EM. Baseado principalmente no estudo de Spach et al, 2004, busca-se entender a ação da vitamina D como tratamento para condições de EM. Dessa forma, ANÁLISE (alguém fazer). Nesse contexto, encontra-se uma leve relação entre a esclerose múltipla, a vitamina D e os processos biológicos envolvidos. 
 </div>
 
 > Descrição resumida do tema do projeto. Sugestão de roteiro (cada item tipicamente tratado em uma ou poucas frases):
@@ -25,15 +25,15 @@ A esclerose múltipla (EM) é uma doença crônica, progressiva e autoimune que 
 
 # Slides
 
-[Apresentação Parte 2](assets/slides/P3%20-%20%20Expressão%20Gênica%20de%20Vitamina%20D%20no%20tratamento%20de%20Esclerose%20Múltipla.pdf)
+[Apresentação Parte 3](assets/slides/P3%20-%20%20Expressão%20Gênica%20de%20Vitamina%20D%20no%20tratamento%20de%20Esclerose%20Múltipla.pdf)
 
 # Fundamentação Teórica
 <div align="justify">
-A esclerose múltipla (EM) é uma doença crônica, progressiva e autoimune que afeta o sistema nervoso central. Caracterizada pela neurodegeneração e desmielinização, resultando no atraso ou impedimento da transmissão dos impulsos nervosos provocado pela destruição da bainha de mielina, que é uma camada de tecido adiposo que envolve o axônio do neurônio e é essencial para a rápida condução dos impulsos [1]. Entre os sintomas apresentados neste acometimento estão: fraqueza no membro inferior, espasticidade, urgência urinária, fadiga, atrofia muscular, espasmo e alterações cognitivas. [2]. 
-Essa doença é multifatorial, ou seja, envolve fatores imunológicos, genéticos e ambientais, entre os quais se destaca a vitamina D. Estudos mostram que indivíduos com níveis mais baixos de vitamina D têm uma maior incidência de EM [3]. Dessa maneira, epidemiologicamente, países de alta latitude, com menor exposição solar e, portanto, menor quantidade de vitamina D na população, apresentam taxas mais elevadas de EM. Além disso, os estudos indicam que mulheres, caucasianos, adultos, residentes do norte europeu têm maior probabilidade de desenvolver a doença [1].
-A vitamina D é um hormônio esteroide que é adquirido pela síntese na pele - obtida através dos raios UV-B que catalisa a produção de colecalciferol (vitamina D3) a partir de um precursor (7-dihidrocolesterol) - ou pela alimentação - através do salmão, frutos do mar, ovo, sardinha e atum por exemplo. Assim, a vitamina D3 é metabolizada no fígado chegando a 25-hidroxivitamina D3 (25(OH)D3), sendo a principal forma circulante e dosável da vitamina, contudo ela é inativa. A forma ativa é obtida através da hidroxilação da 25(OH)D3 no rim que gera a 1,25(OH)2D3 também conhecida como calcitriol [4].
-O calcitriol é comumente associado à regulação da homeostase do cálcio, envolvido principalmente na formação óssea. Ademais, os receptores de vitamina D também estão estão presentes em diversas células do sistema imunológico como células dendríticas, monócitos, macrófagos, células NK e linfócitos T e B, estando relacionados com: diminuição das citocinas liberadas por Th1, estímulo da função de células Th2 helper, inibição da liberação de IL-17 pelas células Th17, entre outros [4].
-O tratamento com suplementação da vitamina tem, como lógica, a ação dos metabólitos agindo como moduladores parácrinos imunitários, com atividade sobre as células pró-inflamatórias T e produção de citocinas que colaboraram para a patogênese da esclerose múltipla [5]. Assim, existem estudos que mostram possíveis eventos positivos no uso da vitamina D como tratamento ou profilaxia de doenças autoimunes pelo importante papel da regulação dos sistema imunológico [3]. 
+A esclerose múltipla (EM) é uma doença crônica, progressiva e autoimune que afeta o sistema nervoso central. Caracterizada pela neurodegeneração e desmielinização, resultando no atraso ou impedimento da transmissão dos impulsos nervosos provocado pela destruição da bainha de mielina, que é uma camada de tecido adiposo que envolve o axônio do neurônio e é essencial para a rápida condução dos impulsos [1]. Entre os sintomas apresentados neste acometimento estão: fraqueza no membro inferior, espasticidade, urgência urinária, fadiga, atrofia muscular, espasmo e alterações cognitivas. [2]. É uma das doenças mais comuns que afetam o sistema nervoso central e acomete cerca de 2.8 milhões de pessoas no mundo, tendo cerca de 40 mil no Brasil [3]
+Essa doença é multifatorial, ou seja, envolve fatores imunológicos, genéticos e ambientais, entre os quais se destaca a vitamina D. Estudos mostram que indivíduos com níveis mais baixos de vitamina D têm uma maior incidência de EM [4]. Dessa maneira, epidemiologicamente, países de alta latitude, com menor exposição solar e, portanto, menor quantidade de vitamina D na população, apresentam taxas mais elevadas de EM. Além disso, os estudos indicam que mulheres, caucasianos, adultos, residentes do norte europeu têm maior probabilidade de desenvolver a doença [1].
+A vitamina D é um hormônio esteroide adquirido pela síntese na pele - obtida através dos raios UV-B que catalisam a produção de colecalciferol (vitamina D3) a partir de um precursor (7-dihidrocolesterol) - ou pela alimentação - através do salmão, frutos do mar, ovo, sardinha e atum por exemplo. Assim, a vitamina D3 é metabolizada no fígado chegando a 25-hidroxivitamina D3 (25(OH)D3), sendo a principal forma circulante e dosável da vitamina, contudo ela é inativa. A forma ativa é obtida através da hidroxilação da 25(OH)D3 no rim que gera a 1,25(OH)2D3 também conhecida como calcitriol [5].
+O calcitriol é comumente associado à regulação da homeostase do cálcio, envolvido principalmente na formação óssea. Ademais, os receptores de vitamina D também estão estão presentes em diversas células do sistema imunológico como células dendríticas, monócitos, macrófagos, células NK e linfócitos T e B, estando relacionados com: diminuição das citocinas liberadas por Th1, estímulo da função de células Th2 helper, inibição da liberação de IL-17 pelas células Th17, entre outros [5].
+O tratamento com suplementação da vitamina tem, como lógica, a ação dos metabólitos agindo como moduladores parácrinos imunitários, com atividade sobre as células pró-inflamatórias T e produção de citocinas que colaboraram para a patogênese da esclerose múltipla [6]. Assim, existem estudos que mostram possíveis eventos positivos no uso da vitamina D como tratamento ou profilaxia de doenças autoimunes pelo importante papel da regulação dos sistema imunológico [4]. 
 </div>
 
 > Fundamentação teórica do problema em saúde/biologia. Cite artigos tomados como base e em que problema.
@@ -209,6 +209,13 @@ Finalmente, para reduzir a quantidade de proteínas analisadas, foram filtradas 
 - **Centralidade e Expressão Gênica**: Importância dos nós com base em medidas de centralidade e expressão gênica.
 
 # Resultados
+<div align="justify">
+Com base nas redes complexas criadas a partir do estudo de Spach et al (2004) e com o enriquecimento de outras bases, observa-se principalmente a comunidade de 4 genes: Actb, Cxcl10, Fn1 e Nfkbia, indicando que a administração de vitamina D altera a expressão desses genes em pacientes com esclerose múltipla em comparação com indivíduos saudáveis. Como demonstrado nas entregas intermediárias do projeto, o gene Actb codifica a actina envolvida na motilidade, estrutura e comunicação intercelular, além de estar envolvida na regulação da dinâmica da actina para a formação de copo fagocitário, importante para as células fagocitárias do sistema imune como macrófagos e células dendríticas [9]. O gene Cxcl10 codifica uma quimiocina relacionada com a estimulação de monócitos, natural killer, migração de células T e modulação da expressão de moléculas de adesão [10]. O gene Fn1 codifica a fibronectina que está envolvida na adesão celular, migração celular, sistema imunológico, mineralização dos osteoblastos e inibe a ativação de monócitos [11]. O gene Nfkbia codifica um membro da família de inibidores NF-kappa-B, que contém múltiplos domínios de repetição ankrin, de maneira que a proteína codificada interage com dímeros REL para inibir os complexos NF-kappa-B/REL que estão envolvidos nas respostas inflamatórias [12].
+Infelizmente, não foi encontrada relação direta entre esses genes, a esclerose múltipla e o tratamento com vitamina D, por meio dos dados utilizados e dos artigos. Entretanto, consegue-se fazer uma relação desses genes com processos biológicos que estão conectados com processos imunológicos, considerando que a base da EM é autoimune, ou seja, as próprias células do sistema imunológico atacam o sistema nervoso central provocando a desmielinazação e seus sintomas [1]. Os principais processos biológicos encontrados foram: Regulation Of Apoptotic Process (GO:0042981), Defense response (GO:0006952); Immune Response (GO:0006955) e Positive Regulation Of Inflammatory Response (GO:0050729). 
+O gene Cxcl10 está envolvido nos processos de regulação da apoptose e resposta defensiva, sendo uma quimiocina que exerce um potente efeito quimiotático nos linfócitos T ativados, principalmente durante infecções virais [13], que podem ser uma das alterações ambientais que permeiam a EM. Nesse sentido, o Cxcl10 desencadeia apoptose em vários modelos celulares, como os neurônios em conjunto com outras citocinas liberadas no processo de inflamação, como IL 2 e IFNα conforme foi demonstrado por Sihdamed et al (2012). Com isso, percebe-se que o resultado de aumento da expressão diferencial do gene no estudo de esclerose múltipla e vitamina D indica um resultado satisfatório de pesquisa, de forma que sua expressão está envolvida na apoptose das células T que atacam as bainhas de mielina, assim, por ter sua apoptose aumentada, ocorre a diminuição da desmielinização e consequentemente dos sintomas e da progressão da doença. 
+O gene Kfkbia está relacionado com a regulação positiva da resposta inflamatória, pois ele é o inibidor de NF-κB que impulsiona a expressão gênica inflamatória [14]. Quando ativados, os fatores de transcrição NF-κB aumentam a expressão de genes importantes para o crescimento celular, inibição da apoptose, metástase e angiogênese [15]. Dessa maneira, o NFkbia atua impedindo a ação de NF-kb auxiliando nos processos de apoptose e da resposta inflamatória como também foi visto nos outros processos. Os genes Actb e fn1 estão envolvidos no processo de regulação da apoptose, porém não foi encontrados estudos que envolvam a relação desses parâmetros.
+Além disso, pelos grafos obtidos no projeto, percebe-se que todos esses genes e processos biológicos estão relacionados com a resposta imunológica pela relação com interleucinas - como IL18, IlL33, IL4, IL6 - fatores de necrose tumoral e receptores toll-like. Sendo assim, os resultados se mostram promissores para a relação entre a esclerose múltipla e a vitamina D, mas não foi ótimo pelo resultado pela falta de referências bibliográficas acerca do tema, enfatizando a necessidade de mais ensaios, experimentos e pesquisas que consigam ligar esses parâmetros diretamente. 
+</div>
 
 > Esta pode ser uma seção independente ou combinada com a seção de Análises Realizadas.
 >
@@ -233,32 +240,51 @@ Finalmente, para reduzir a quantidade de proteínas analisadas, foram filtradas 
 # Trabalhos Futuros
 
 > O que poderia ser melhorado se houvesse mais tempo?
+<div align="justify">
+Explorar outras vias biológicas, inclusive de outras doenças para verificar se existem possíveis relações dessas com os genes analisados tal que possam evidenciar alguma relação direta do tratamento da esclerose múltipla com a vitamina D; essa exploração tem como motivação a identificação dos genes centrais estudados neste projeto os quais são comuns também nessas doenças, entretanto não existe um pathway que faça menção do tratamento da esclerose múltipla com a vitamina D; consequentemente o resultado foi demonstrado usando as vias do processo biológico. Além disso, o resultado final, apesar de satisfatório, não foi ótimo por não haver referências bibliográficas acerca do assunto em estudo, isso mostra a necessidade de se fazer mais pesquisas como também ensaios e experimentos que possam ligá-los diretamente aos parâmetros. Para essa finalidade serão usados todos os recursos e ferramentas utilizadas neste projeto e outros que se façam necessários. 
+<br/> </br>
+Avaliar outros genes dentre os mais expressos, se alguns deles possam dar evidências de uma possível relação direta da esclerose múltipla e o tratamento com vitamina D, pelo fato de não ter sido encontrada relação direta entre os genes mais centrais analisados. Essa avaliação tem como motivação a inclusão do gene Nfkbia que não tinha sido observada nas atividades anteriores, porém foi verificada posteriomente a sua importância neste estudo. Pesquisas iniciais apontam relacionamentos de pathways do KEGG com os genes centrais analisados, bem como a observação desses genes com alguns pathways do REACTOME, no entanto é necessário fazer análises para apontar resultados dessas interações. 
+<br/> </br>
+Realizar predições de novas conexões na rede tem como motivação explorar esse tipo de análise no futuro com a finalidade de avaliar possíveis conexões novas na rede gerada neste projeto, pelo fato da rede resultar em expressão gênica de segunda ordem, ou seja, relação indireta pelas vias do processo biológico e pela inexistência um pathway específico de esclerose múltipla com vitamina D.
+<br/> </br>
+</div>
+
 > Quais possíveis desdobramentos este projeto pode ter?
+<div align="justify">
+Os possíveis desdobramentos que este projeto pode ter é colocar em prática o que foi pesquisado e analisado, incluindo os trabalhos futuros, transformando-o em um material de pesquisa de modo que a ideia que se deseja alcançar resulte numa obra que seja compreendida por todos.
+</div>
+
 
 # Referências Bibliográficas
 <div align="justify">
 
-1. **NOGUEIRA, Raquel Araujo et al**. The vitamin D and immunological performance: a perspective within multiple sclerosis. 2021. Disponível em: [https://rsdjournal.org/index.php/rsd/article/view/22575/20285](https://rsdjournal.org/index.php/rsd/article/view/22575/20285) Acesso em: 21 mai. 2024.
+1. **NOGUEIRA, Raquel Araujo et al**. The vitamin D and immunological performance: a perspective within multiple sclerosis. 2021. Disponível em: [https://rsdjournal.org/index.php/rsd/article/view/22575/20285]. Acesso em: 21 mai. 2024.
 
-2. **MATIAS, Francisco Gil Gonçalves**. Vitamina D e esclerose múltipla. 2009. Dissertação de Mestrado. Disponível em: [https://estudogeral.uc.pt/handle/10316/27526?locale=pt](https://estudogeral.uc.pt/handle/10316/27526?locale=pt) Acesso em: 21 mai. 2024.
+2. **MATIAS, Francisco Gil Gonçalves**. Vitamina D e esclerose múltipla. 2009. Dissertação de Mestrado. Disponível em: [https://estudogeral.uc.pt/handle/10316/27526?locale=pt]. Acesso em: 21 mai. 2024.
 
-3. **PEREIRA, Ana Rita Rodrigues**. Relatório de Estágio e Monografia intitulada “Mecanismos Moduladores da Vitamina D na Esclerose Múltipla. 2020. Dissertação de Mestrado. Disponível em: [https://estudogeral.uc.pt/handle/10316/92941](https://estudogeral.uc.pt/handle/10316/92941) Acesso em: 21 mai. 2024.
+3. **Biblioteca Mundial em Saúde**. Disponível em: [https://bvsms.saude.gov.br/eu-me-conecto-nos-nos-conectamos-30-5-dia-mundial-da-esclerose-multipla/]. Acesso em: 01 jun. 2024.
 
-4. **MARQUES, Cláudia Diniz Lopes et al**. A importância dos níveis de vitamina D nas doenças autoimunes. Revista Brasileira de Reumatologia, v. 50, p. 67-80, 2010. Disponível em: [https://www.scielo.br/j/rbr/a/5BcvSsQGhJPXXD8Q9Pzff8H/?lang=pt#](https://www.scielo.br/j/rbr/a/5BcvSsQGhJPXXD8Q9Pzff8H/?lang=pt#) Acesso em: 21 mai. 2024.
+4. **PEREIRA, Ana Rita Rodrigues**. Relatório de Estágio e Monografia intitulada “Mecanismos Moduladores da Vitamina D na Esclerose Múltipla. 2020. Dissertação de Mestrado. Disponível em: [https://estudogeral.uc.pt/handle/10316/92941]. Acesso em: 21 mai. 2024.
 
-5. **PEREIRA, Isabel Teresa Pereira Barros da Cunha**. Importância da Vitamina D na esclerose múltipla: Monografia: The role of Vitamin D in multiple sclerosis. 2009. Disponível em: [https://repositorio-aberto.up.pt/handle/10216/54674](https://repositorio-aberto.up.pt/handle/10216/54674) Acesso em: 21 mai. 2024.
+5. **MARQUES, Cláudia Diniz Lopes et al**. A importância dos níveis de vitamina D nas doenças autoimunes. Revista Brasileira de Reumatologia, v. 50, p. 67-80, 2010. Disponível em: [https://www.scielo.br/j/rbr/a/5BcvSsQGhJPXXD8Q9Pzff8H/?lang=pt#]. Acesso em: 21 mai. 2024.
 
-6. Naive, EAE placebo-treated and EAE 1,25(OH)2D3-treated groups. Disponível em: [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE842](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE842)
+6. **PEREIRA, Isabel Teresa Pereira Barros da Cunha**. Importância da Vitamina D na esclerose múltipla: Monografia: The role of Vitamin D in multiple sclerosis. 2009. Disponível em: [https://repositorio-aberto.up.pt/handle/10216/54674]. Acesso em: 21 mai. 2024.
 
-7. **Karen M. Spach et al.** Gene expression analysis suggests that 1,25-dihydroxyvitamin D3 reverses experimental autoimmune encephalomyelitis by stimulating inflammatory cell apoptosis, 2004. Disponível em: [https://journals.physiology.org/doi/full/10.1152/physiolgenomics.00003.2004](https://journals.physiology.org/doi/full/10.1152/physiolgenomics.00003.2004) Acesso em: 21 mai. 2024.
+7. Naive, EAE placebo-treated and EAE 1,25(OH)2D3-treated groups. Disponível em: [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE842].
 
-8. **ACTB Gene** - Actin Beta. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=ACTB](https://www.genecards.org/cgi-bin/carddisp.pl?gene=ACTB) Acesso em: 21 mai. 2024.
+8. **Karen M. Spach et al.** Gene expression analysis suggests that 1,25-dihydroxyvitamin D3 reverses experimental autoimmune encephalomyelitis by stimulating inflammatory cell apoptosis, 2004. Disponível em: [https://journals.physiology.org/doi/full/10.1152/physiolgenomics.00003.2004]. Acesso em: 21 mai. 2024.
 
-9. **CTSS Gene** - Cathepsin S. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTSS](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTSS) Acesso em: 21 mai. 2024.
+9. **ACTB Gene** - Actin Beta. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=ACTB]. Acesso em: 21 mai. 2024.
 
-10. **CXCL10 Gene** - C-X-C Motif Chemokine Ligand 10. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL10](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL10) Acesso em: 21 mai. 2024.
+10. **CXCL10 Gene** - C-X-C Motif Chemokine Ligand 10. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL10]. Acesso em: 21 mai. 2024.
 
-11. **FN1 Gene** - Fibronectin 1. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=FN1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=FN1) Acesso em: 21 mai. 2024.
+11. **FN1 Gene** - Fibronectin 1. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=FN1]. Acesso em: 21 mai. 2024.
 
-12. **IFITM3 Gene** - Interferon Induced Transmembrane Protein 3. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=IFITM3](https://www.genecards.org/cgi-bin/carddisp.pl?gene=IFITM3) Acesso em: 21 mai. 2024.
+12. **NFKBIA Gene** - NFKB Inhibitor. Disponível em: [https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFKBIA]. Acesso em: 05 jun 2024.
+
+13. **Sidahmed, Abubaker M.E. et al.** CXCL10 contributes to p38-mediated apoptosis in primary T lymphocytes in vitro. Disponível em:  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7129786/]. Acesso em: 08 jun 2024.
+
+14. **Ali, Salman et al.** Functional Genetic Variation in NFKBIA and Susceptibility to Childhood Asthma, Bronchiolitis, and Bronchopulmonary Dysplasia. Disponível em: [https://journals.aai.org/jimmunol/article/190/8/3949/39904/Functional-Genetic-Variation-in-NFKBIA-and]. Acesso em: 09 jun 2024.
+
+15. **Lowe, Julie M. et al.** Nuclear Factor-κB (NF-κB) Is a Novel Positive Transcriptional Regulator of the Oncogenic Wip1 Phosphatase. Disponível em: [https://www.sciencedirect.com/science/article/pii/S0021925819375039]. Acesso em: 09 jun 2024.
 </div>
