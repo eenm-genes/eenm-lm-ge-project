@@ -176,8 +176,15 @@ Finalmente, para reduzir a quantidade de proteínas analisadas, foram filtradas 
 ![Modelo Lógico](/project-3-final/assets/images/MODELO_LOGICO.png)
 
 ## Integração entre Bases
+<div align="justify">  
+A integração de múltiplas bases de dados para o estudo da expressão gênica da vitamina D no tratamento da esclerose múltipla envolveu vários desafios. As bases de dados GSE842, Gene Ontology (GO) e PubMed (PMID) variavam em formato e detalhamento, necessitando padronização de formatos e nomenclaturas para garantir consistência.
 
-> Descreva se houve desafios de integração de fontes de dados e etapas para a mesma.
+Utilizando a base PMID, foram selecionados genesets diretamente relacionados à esclerose múltipla, resultando em 45 genesets de um total de 3373 referenciados em estudos específicos. Os genes identificados nas bases GSE842, GO e PMID foram integrados em um conjunto único, garantindo que todos os genes relevantes estivessem presentes para análises posteriores. Os 46 processos biológicos associados aos genes expressos foram integrados em uma estrutura unificada, permitindo uma análise abrangente dos pathways envolvidos.
+
+Os 45 genesets relacionados à esclerose múltipla foram combinados com os genes expressos e processos biológicos, formando uma rede integrada de informação. A rede integrada resultante incluiu um volume considerável de dados. Para lidar com isso, foi desenvolvido um modelo lógico homogêneo que facilitou a análise das interações entre genes, proteínas e processos biológicos. Este modelo foi ajustado para suportar a análise de variações de expressão gênica, identificação de clusters de proteínas e descoberta de comunidades específicas.
+
+A integração e normalização das bases de dados forneceram uma visão coesa sobre os efeitos potenciais da vitamina D no tratamento da esclerose múltipla, permitindo uma análise mais robusta e direcionada, com a expectativa de futuras descobertas significativas.
+</div>
 
 ## Análises Realizadas
 <div align="justify">  
