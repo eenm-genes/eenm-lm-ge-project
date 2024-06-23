@@ -41,10 +41,12 @@ O tratamento com suplementação da vitamina tem, como lógica, a ação dos met
 # Perguntas de Pesquisa
 <div align="justify">
 RQ1: A administração de vitamina D altera a expressão de quais genes em pacientes com esclerose múltipla em comparação com indivíduos saudáveis?
+**Actb, Cxcl10, Fn1 e Nfkbia**
 </div>
 
 <div align="justify">
 RQ2: A administração de vitamina D está correlacionada a expressão de quais genes relacionados a processos imunológicos em pacientes com esclerose múltipla?
+GO:0042981 Regulation of Apoptotic Process, GO:0006955 Immune Response, GO:0050729 Positive Regulation Of Inflammatory Response, GO:0006952 Defense Response.**
 </div>
 
 > Perguntas de pesquisa (revisadas e atualizadas) que o projeto responde ou hipóteses que foram avaliadas, enunciadas de maneira objetiva e verificável.
