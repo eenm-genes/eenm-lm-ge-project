@@ -44,7 +44,7 @@ RQ1: A administração de vitamina D altera a expressão de quais genes em pacie
 </div>
 
 <div align="justify">
-RQ2: A administração de vitamina D está correlacionada a expressão de genes relacionados a processos imunológicos em pacientes com esclerose múltipla?
+RQ2: A administração de vitamina D está correlacionada a expressão de quais genes relacionados a processos imunológicos em pacientes com esclerose múltipla?
 </div>
 
 > Perguntas de pesquisa (revisadas e atualizadas) que o projeto responde ou hipóteses que foram avaliadas, enunciadas de maneira objetiva e verificável.
