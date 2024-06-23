@@ -1,5 +1,5 @@
-# Projeto `Expressão Gênica de Vitamina D no tratamento de Esclerose Múltipla`
-# Project `Vitamin D Gene Expression in the Treatment of Multiple Sclerosis>`
+# Projeto Expressão Gênica de Vitamina D no tratamento de Esclerose Múltipla
+# Project Vitamin D Gene Expression in the Treatment of Multiple Sclerosis>
 
 # Descrição Resumida do Projeto
 
