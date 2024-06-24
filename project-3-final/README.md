@@ -4,24 +4,8 @@
 # Descrição Resumida do Projeto
 
 <div align="justify">
-A esclerose múltipla (EM) é uma doença autoimune caracterizada pela neurodegeneração e desmielinização, apresentando sintomas como fraqueza nos membros inferiores, espasmos, alterações cognitivas e atrofia muscular. É uma das doenças mais comuns que afetam o sistema nervoso central e acomete cerca de 2.8 milhões de pessoas no mundo. Por depender de alterações genéticas e ambientais para o seu desenvolvimento, estudos indicam que indivíduos com níveis mais baixos de vitamina D têm uma maior incidência de EM. Baseado principalmente no estudo de Spach et al, 2004, busca-se entender a ação da vitamina D como tratamento para condições de EM. Dessa forma, ANÁLISE (alguém fazer). Nesse contexto, encontra-se uma leve relação entre a esclerose múltipla, a vitamina D e os processos biológicos envolvidos. 
+A esclerose múltipla (EM) é uma doença autoimune caracterizada pela neurodegeneração e desmielinização, apresentando sintomas como fraqueza nos membros inferiores, espasmos, alterações cognitivas e atrofia muscular. É uma das doenças mais comuns que afetam o sistema nervoso central e acomete cerca de 2.8 milhões de pessoas no mundo. Por depender de alterações genéticas e ambientais para o seu desenvolvimento, estudos indicam que indivíduos com níveis mais baixos de vitamina D têm uma maior incidência de EM. Baseado principalmente no estudo de Spach et al, 2004, busca-se entender a ação da vitamina D como tratamento para condições de EM através da formação de grapos utilizando plataformas como Neo4j, Cytoscape e STRING. Dessa forma, teve a formação de grafos que relacionam os genes Cxcl10, Actb, Nfkbia e FN1 com diferentes processos biológicos que podem ser relacionados com a vitamina D e a esclerose múltipla. 
 </div>
-
-> Descrição resumida do tema do projeto. Sugestão de roteiro (cada item tipicamente tratado em uma ou poucas frases):
->
-> Contextualização do projeto
->
-> Caracterização do problema
->
-> Motivação
->
-> Relevância
->
-> Trabalhos relacionados
->
-> Indicação (bastante resumida) da análise proposta
->
-> Indicação (bastante resumida) dos resultados alcançados
 
 # Slides
 
@@ -40,8 +24,6 @@ O calcitriol é comumente associado à regulação da homeostase do cálcio, env
 O tratamento com suplementação da vitamina tem, como lógica, a ação dos metabólitos agindo como moduladores parácrinos imunitários, com atividade sobre as células pró-inflamatórias T e produção de citocinas que colaboraram para a patogênese da esclerose múltipla [6]. Assim, existem estudos que mostram possíveis eventos positivos no uso da vitamina D como tratamento ou profilaxia de doenças autoimunes pelo importante papel da regulação dos sistema imunológico [4]. 
 </div>
 
-> Fundamentação teórica do problema em saúde/biologia. Cite artigos tomados como base e em que problema.
-
 # Perguntas de Pesquisa
 <div align="justify">
 RQ1: A administração de vitamina D altera a expressão de quais genes em pacientes com esclerose múltipla em comparação com indivíduos saudáveis?
@@ -51,10 +33,9 @@ Actb, Cxcl10, Fn1 e Nfkbia
   
 RQ2: A administração de vitamina D está correlacionada a expressão de quais genes relacionados a processos imunológicos em pacientes com esclerose múltipla?
 GO:0042981 Regulation of Apoptotic Process, GO:0006955 Immune Response, GO:0050729 Positive Regulation Of Inflammatory Response e GO:0006952 Defense Response.
-</div>
 
-> Perguntas de pesquisa (revisadas e atualizadas) que o projeto responde ou hipóteses que foram avaliadas, enunciadas de maneira objetiva e verificável.
-> Apresente aqui como o projeto ajudou a responder as perguntas de pesquisa.
+O projeto ajudou a responder essas perguntas através dos grafos criados que permitiram a relação entre os genes e os processos biológicos que podem ser relacionados indiretamente com a esclerose múltipla e seu tratamento com a vitamina D.
+</div>
 
 # Metodologia
 <div align="justify">
@@ -227,24 +208,27 @@ Com base nas redes complexas criadas a partir do estudo de Spach et al (2004) e 
 
 Infelizmente, não foi encontrada relação direta entre esses genes, a esclerose múltipla e o tratamento com vitamina D, por meio dos dados utilizados e dos artigos. Entretanto, consegue-se fazer uma relação desses genes com processos biológicos que estão conectados com processos imunológicos, considerando que a base da EM é autoimune, ou seja, as próprias células do sistema imunológico atacam o sistema nervoso central provocando a desmielinazação e seus sintomas [1]. Os principais processos biológicos encontrados foram: Regulation Of Apoptotic Process (GO:0042981), Defense response (GO:0006952); Immune Response (GO:0006955) e Positive Regulation Of Inflammatory Response (GO:0050729). 
 
-O gene Cxcl10 está envolvido nos processos de regulação da apoptose e resposta defensiva, sendo uma quimiocina que exerce um potente efeito quimiotático nos linfócitos T ativados, principalmente durante infecções virais [13], que podem ser uma das alterações ambientais que permeiam a EM. Nesse sentido, o Cxcl10 desencadeia apoptose em vários modelos celulares, como os neurônios em conjunto com outras citocinas liberadas no processo de inflamação, como IL 2 e IFNα conforme foi demonstrado por Sihdamed et al (2012). Com isso, percebe-se que o resultado de aumento da expressão diferencial do gene no estudo de esclerose múltipla e vitamina D indica um resultado satisfatório de pesquisa, de forma que sua expressão está envolvida na apoptose das células T que atacam as bainhas de mielina, assim, por ter sua apoptose aumentada, ocorre a diminuição da desmielinização e consequentemente dos sintomas e da progressão da doença. 
+O gene Cxcl10 está envolvido nos processos de regulação da apoptose e resposta defensiva, sendo uma quimiocina que exerce um potente efeito quimiotático nos linfócitos T ativados, principalmente durante infecções virais [13], que podem ser uma das alterações ambientais que permeiam a EM. Nesse sentido, o Cxcl10 desencadeia apoptose em vários modelos celulares, como os neurônios em conjunto com outras citocinas liberadas no processo de inflamação, como IL 2 e IFNα conforme foi demonstrado por Sihdamed et al (2012). Nos grafos, percebe-se a relação de Cxcl10 com Tlr3, Il18, Il4, Nrp1, Samhd1, Ifitm3, Ifih1, Ifng que são mais relacionados à apoptose, principalmente o IFNg que induz a apoptose através de ativação de vias pró-apoptóticas [14]. Com isso, percebe-se que o resultado de aumento da expressão diferencial do gene no estudo de esclerose múltipla e vitamina D indica um resultado satisfatório de pesquisa, de forma que sua expressão está envolvida na apoptose das células T que atacam as bainhas de mielina, assim, por ter sua apoptose aumentada, ocorre a diminuição da desmielinização e consequentemente dos sintomas e da progressão da doença. 
 
-O gene Nfkbia está relacionado com a regulação positiva da resposta inflamatória, pois ele é o inibidor de NF-κB que impulsiona a expressão gênica inflamatória [14]. Quando ativados, os fatores de transcrição NF-κB aumentam a expressão de genes importantes para o crescimento celular, inibição da apoptose, metástase e angiogênese [15]. Dessa maneira, o NFkbia atua impedindo a ação de NF-kb auxiliando nos processos de apoptose e da resposta inflamatória como também foi visto nos outros processos. Os genes Actb e fn1 estão envolvidos no processo de regulação da apoptose, porém não foi encontrados estudos que envolvam a relação desses parâmetros.
+O gene Nfkbia está relacionado com a regulação positiva da resposta inflamatória, pois ele é o inibidor de NF-κB que impulsiona a expressão gênica inflamatória [15]. Quando ativados, os fatores de transcrição NF-κB aumentam a expressão de genes importantes para o crescimento celular, inibição da apoptose, metástase e angiogênese [16]. Dessa maneira, o NFkbia atua impedindo a ação de NF-kb auxiliando nos processos de apoptose e da resposta inflamatória como também foi visto nos outros processos. 
+
+Os genes Actb e fn1 estão envolvidos no processo de regulação da apoptose, porém não foi encontrados estudos que envolvam a relação desses parâmetros. Contudo, os grafos mostram conexão entre o Actb e Anxa5, Tsc2, Mtor, Stat1, Smad4, Akt1, Nr3c1; dentre esses genes, o Anxa5 é o mais envolvido com a regulação da apoptose, visto que é é utilizado como marcador para células apoptóticas, já as outros genes codificam proteínas que podem induzir a apoptose [17].
 
 Além disso, pelos grafos obtidos no projeto, percebe-se que todos esses genes e processos biológicos estão relacionados com a resposta imunológica pela relação com interleucinas - como IL18, IlL33, IL4, IL6 - fatores de necrose tumoral e receptores toll-like. Sendo assim, os resultados se mostram promissores para a relação entre a esclerose múltipla e a vitamina D, mas não foi ótimo pelo resultado pela falta de referências bibliográficas acerca do tema, enfatizando a necessidade de mais ensaios, experimentos e pesquisas que consigam ligar esses parâmetros diretamente. 
 </div>
 
-> Esta pode ser uma seção independente ou combinada com a seção de Análises Realizadas.
->
-> Descrição dos resultados mais importantes obtidos.
->
-> Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de Análises Realizadas (o que for mais pertinente).
-
 # Discussão
+<div align="justify"> 
+RQ1: A administração de vitamina D altera a expressão de quais genes em pacientes com esclerose múltipla em comparação com indivíduos saudáveis?
+Actb, Cxcl10, Fn1 e Nfkbia
 
-> Discussão dos resultados. Relacionar os resultados com as perguntas de pesquisa ou hipóteses avaliadas.
->
-> A discussão dos resultados também pode ser feita opcionalmente na seção de Resultados, na medida em que os resultados são apresentados. Aspectos importantes a serem discutidos: Por que seu modelo alcançou (ou não) um bom resultado? É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?
+<br/>
+  
+RQ2: A administração de vitamina D está correlacionada a expressão de quais genes relacionados a processos imunológicos em pacientes com esclerose múltipla?
+GO:0042981 Regulation of Apoptotic Process, GO:0006955 Immune Response, GO:0050729 Positive Regulation Of Inflammatory Response e GO:0006952 Defense Response.
+
+Como mostrado nos resultados, os genes acima estão relacionados com os processos biológicos que estão diretamente relacionados com os processos imunológicos e assim podem ser ligados à esclero múltipla, visto que é uma doença autoimune. Dessa maneira, o modelo alcançou um bom resultado, contudo seria melhor se houvessem estudos com mais dados que relacionem a esclerose múltipla com o tratamento de vitamina D. Com os resultados obtidos, percebe-se que o processo de regulação da apoptose é o mais presente, visto que há relação do Actb, Cxcl10 e Fn1 com outros genes que estão relacionados com a apoptose, indicando que um dos caminhos de melhora da esclerose múltipla é a morte das células T que são responsáveis pela desmielinização. Entretanto, para confirmação disso, são necessários estudos focados diretamente na esclorose múltipla e na vitamina D.
+</div>
 
 # Conclusão
 
@@ -312,7 +296,11 @@ Os possíveis desdobramentos que este projeto pode ter é colocar em prática o 
 
 13. **Sidahmed, Abubaker M.E. et al.** CXCL10 contributes to p38-mediated apoptosis in primary T lymphocytes in vitro. Disponível em:  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7129786/]. Acesso em: 08 jun 2024.
 
-14. **Ali, Salman et al.** Functional Genetic Variation in NFKBIA and Susceptibility to Childhood Asthma, Bronchiolitis, and Bronchopulmonary Dysplasia. Disponível em: [https://journals.aai.org/jimmunol/article/190/8/3949/39904/Functional-Genetic-Variation-in-NFKBIA-and]. Acesso em: 09 jun 2024.
+14. **Campos, Kelma**. Estudo molecular do gene interferon-gamma no granuloma periapical e no cisto radicular. Disponível em: [https://repositorio.ufmg.br/bitstream/1843/BUOS-9Q4HVL/1/kelmacampostesefinal_apos_defesa.pdf]. Acesso em: 19 de jun. 2024.
+    
+15. **Ali, Salman et al.** Functional Genetic Variation in NFKBIA and Susceptibility to Childhood Asthma, Bronchiolitis, and Bronchopulmonary Dysplasia. Disponível em: [https://journals.aai.org/jimmunol/article/190/8/3949/39904/Functional-Genetic-Variation-in-NFKBIA-and]. Acesso em: 09 jun 2024.
 
-15. **Lowe, Julie M. et al.** Nuclear Factor-κB (NF-κB) Is a Novel Positive Transcriptional Regulator of the Oncogenic Wip1 Phosphatase. Disponível em: [https://www.sciencedirect.com/science/article/pii/S0021925819375039]. Acesso em: 09 jun 2024.
+16. **Lowe, Julie M. et al.** Nuclear Factor-κB (NF-κB) Is a Novel Positive Transcriptional Regulator of the Oncogenic Wip1 Phosphatase. Disponível em: [https://www.sciencedirect.com/science/article/pii/S0021925819375039]. Acesso em: 09 jun 2024.
+
+17. **Kang, Tae Heung et al** Annexin A5 as an immune checkpoint inhibitor and tumor-homing molecule for cancer treatment. Disponível em: [https://www.nature.com/articles/s41467-020-14821-z]. Acesso em: 18 jun. 2024.
 </div>
