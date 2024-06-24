@@ -253,7 +253,7 @@ Entre os principais desafios encontrados, destacamos a montagem da base final qu
 <br/></br>
 > Principais lições aprendidas.
 <div align="justify">
-Entre as principais lições aprendidas nesta pesquisa, destaca-se a mudança do tema que contibuiu para termos um resultado satisfatório, porém não do modo esperado pela equipe.
+Entre as principais lições aprendidas nesta pesquisa, destaca-se a mudança do tema no qual foi necessário fazer novas explorações de base que nos fornecesse relações à respeito do assunto.
 </div>
 <br/></br>
 
