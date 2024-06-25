@@ -184,6 +184,15 @@ A integração e normalização das bases de dados forneceram uma visão coesa s
 > Podem ser apresentados destaques na evolução do modelo lógico. O modelo inicial e intermediários (quando relevantes) e explicação de refinamentos, mudanças ou evolução do projeto que fundamentaram as decisões.
 > Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
 
+O objetivo inicial do projeto era investigar a Expressão Gênica (EG) na Estimulação Elétrica Neuromuscular (EENM) em pacientes com Lesão Medular (LM). No entanto, devido à falta de artigos que apresentassem dados sobre essa questão específica, o tema do projeto foi alterado para estudar a Expressão Gênica da Vitamina D no tratamento da Esclerose Múltipla (EM). Esta mudança acarretou uma modificação geral no projeto, incluindo o modelo lógico.
+Originalmente, o modelo lógico considerava o gene, seu nível de expressão e como ele ativa ou reprimia outros genes, focando na diferença de expressão gênica. Com a mudança, o modelo passou a contemplar a interação do gene consigo mesmo e sua participação em diferentes vias metabólicas. Na terceira etapa, foi integrada ao processo a interação do sistema com processos biológicos e com a esclerose múltipla.
+Para investigar a expressão gênica, selecionamos a base de dados de expressão gênica no Gene Expression Omnibus (GEO). Após a seleção, classificamos as amostras e realizamos a análise da expressão e o cálculo de log fold. Exportamos os genes com expressão diferencial relevante e criamos um grafo desses genes e suas relações usando o Neo4j.
+Importamos os dados no Cytoscape para análise de centralidade e comunidades, e exportamos o grafo em CSV. Criamos um grafo enriquecido no Neo4j, Para garantir a validade dos resultados, comparamos e avaliamos os achados com as bases de dados Reactome e NIH.
+Usando o arquivo de expressão dos camundongos do experimento fizemos análises de clusterização, para tentar identificar comunidades e outliers que poderiam dar um caminho extra para seguir as análises.
+Os genes Actb, CxCl10, Fn1 e Nfkbia se mostraram promissores devido à sua alteração de expressão gênica e sua alta centralidade nos experimentos. No entanto, não conseguimos encontrar uma relação direta entre eles e o tratamento com vitamina D, o que direcionou a pesquisa para relacionar os genes com processos biológicos.
+As pesquisas revelaram que os genes analisados desempenham um papel significativo nas relações com o processo biológico da esclerose múltipla e no tratamento com vitamina D. Observou-se um aumento da expressão gênica diferencial através das vias do sistema imunológico. Isso se deveu à forte presença dos genes Actb, CxCl10, Fn1 e Nfkbia nas interações entre a doença e os processos biológicos, utilizando técnicas de redes complexas.
+
+
 # Ferramentas
 
 ### [Neo4j](https://neo4j.com/)
