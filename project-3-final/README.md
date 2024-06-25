@@ -1,10 +1,10 @@
 # Projeto Expressão Gênica de Vitamina D no tratamento de Esclerose Múltipla
-# Project Vitamin D Gene Expression in the Treatment of Multiple Sclerosis>
+# Project Vitamin D Gene Expression in the Treatment of Multiple Sclerosis
 
 # Descrição Resumida do Projeto
 
 <div align="justify">
-A esclerose múltipla (EM) é uma doença autoimune caracterizada pela neurodegeneração e desmielinização, apresentando sintomas como fraqueza nos membros inferiores, espasmos, alterações cognitivas e atrofia muscular. É uma das doenças mais comuns que afetam o sistema nervoso central e acomete cerca de 2.8 milhões de pessoas no mundo. Por depender de alterações genéticas e ambientais para o seu desenvolvimento, estudos indicam que indivíduos com níveis mais baixos de vitamina D têm uma maior incidência de EM. Baseado principalmente no estudo de Spach et al, 2004, busca-se entender a ação da vitamina D como tratamento para condições de EM através da formação de grapos utilizando plataformas como Neo4j, Cytoscape e STRING. Dessa forma, teve a formação de grafos que relacionam os genes Cxcl10, Actb, Nfkbia e FN1 com diferentes processos biológicos que podem ser relacionados com a vitamina D e a esclerose múltipla. 
+A esclerose múltipla (EM) é uma doença autoimune caracterizada pela neurodegeneração e desmielinização, apresentando sintomas como fraqueza nos membros inferiores, espasmos, alterações cognitivas e atrofia muscular. É uma das doenças mais comuns que afetam o sistema nervoso central, acometendo cerca de 2,8 milhões de pessoas no mundo. Por depender de alterações genéticas e ambientais para o seu desenvolvimento, estudos indicam que indivíduos com níveis mais baixos de vitamina D têm uma maior incidência de EM. Baseado principalmente no estudo de Spach et al., 2004, busca-se entender a ação da vitamina D como tratamento para condições de EM através da criação de grafos e análise de redes complexas a partir de bases de dados públicas. Dessa forma, foi possível observar, a partir das redes geradas, o relacionamento entre os genes **Cxcl10, Actb, Nfkbia e FN1 com diferentes processos biológicos, que por sua vez podem ser relacionados com a vitamina D e a esclerose múltipla.
 </div>
 
 # Slides
@@ -25,27 +25,25 @@ O tratamento com suplementação da vitamina tem, como lógica, a ação dos met
 </div>
 
 # Perguntas de Pesquisa
-
+<div align="justify">
 RQ1: A administração de vitamina D altera a expressão de quais genes em pacientes com esclerose múltipla em comparação com indivíduos saudáveis?
-Actb, Cxcl10, Fn1 e Nfkbia
 
-<br/>
+**Actb, Cxcl10, Fn1 e Nfkbia**
+
   
 RQ2: A administração de vitamina D está correlacionada a expressão de quais genes relacionados a processos imunológicos em pacientes com esclerose múltipla?
-GO:0042981 Regulation of Apoptotic Process, GO:0006955 Immune Response, GO:0050729 Positive Regulation Of Inflammatory Response e GO:0006952 Defense Response.
 
-O projeto ajudou a responder essas perguntas através dos grafos criados que permitiram a relação entre os genes e os processos biológicos que podem ser relacionados indiretamente com a esclerose múltipla e seu tratamento com a vitamina D.
+**GO:0042981 Regulation of Apoptotic Process, GO:0006955 Immune Response, GO:0050729 Positive Regulation Of Inflammatory Response e GO:0006952 Defense Response.**
+
+O projeto contribuiu para responder às perguntas de pesquisa, pois, a partir de um conjunto de dados de expressão gênica diferencial, conseguimos selecionar genes relevantes. Utilizando técnicas de análise de redes complexas, realizamos o enriquecimento com genes e processos biológicos relacionados à Vitamina D e à Esclerose Múltipla. Isso nos permitiu analisar uma grande quantidade de dados e, ao final, selecionar os genes e processos de interesse. Com isso, identificamos a relação entre os genes mais expressos e os genes da Esclerose Múltipla através dos processos biológicos.
 </div>
 
 # Metodologia
 <div align="justify">
-A metodologia seguiu um pipeline no qual foi realizada a seleção de bases de expressão gênica que prosseguiu para a classificação das amostras; classificadas as amostras, foi feito o cálculo de log fold change para a análise da expressão; os genes com expressão diferencial relevantes foram consultados na base do string para geração do grafo. Mantendo o fluxo do pipeline, houve o enriquecimento das vias dos processos imunológicos, a criação do grafo enriquecido e a exportação dos deste para análise na ferramenta cystoscape. Nessa última ferramenta, foi realizada a análise de centralidade e detecção de comunidades, usando as métricas como Betweenness e o Leiden Cluster. 
+A metodologia seguiu um pipeline no qual foi realizada a seleção de bases de expressão gênica que prosseguiu para a classificação das amostras; classificadas as amostras, foi feito o cálculo de log fold change para a análise da expressão; os genes com expressão diferencial relevantes foram consultados na base do string para geração do grafo. Mantendo o fluxo do pipeline, houve o enriquecimento das vias dos processos imunológicos, a criação do grafo enriquecido e a exportação dos deste para análise na ferramenta Cystoscape. Nessa última ferramenta, foi realizada a análise de centralidade e detecção de comunidades, usando as métricas de Degree e o Leiden Cluster. 
 
 A utilização da técnica teve por objetivo saber quais foram os genes mais centrais que estão envolvidos na administração da vitamina D em pacientes com escloresose múltipla, comparando com indivíduos saudáveis e quais comunidades esses genes fazem parte. 
 </div>
-
-> Proposta de metodologia incluindo especificação de quais as técnicas/métricas de Ciência de Redes que estão sendo usadas no projeto,
-> tais como: detecção de comunidades, análise de centralidade, predição de links, ou a combinação de uma ou mais técnicas. Descreva o que perguntas pretende endereçar com a técnica escolhida.
 
 ![Metodologia](/project-3-final/assets/images/METODOLOGIA.png)
 
@@ -154,10 +152,6 @@ Para realizar a análise vetorial dos dados, foi necessário consolidar cada amo
 Finalmente, para reduzir a quantidade de proteínas analisadas, foram filtradas aquelas que apresentaram maior diferença de expressão, totalizando 89 proteínas. A utilização desta base de dados foi crucial para obter os resultados iniciais, permitindo a identificação de clusters de proteínas com padrões semelhantes e a descoberta de comunidades específicas. Com o contínuo trabalho de enriquecimento da base de dados, espera-se conectar essas proteínas com determinados pathways e identificar relações mais implícitas entre a vitamina D e o tratamento da Esclerose Múltipla. Isso poderá proporcionar uma compreensão mais profunda dos mecanismos subjacentes e potencialmente revelar novas direções para futuras pesquisas.
 </div>
 
-> Faça uma descrição sobre o que concluiu sobre esta base. Sugere-se que respondam perguntas ou forneçam informações indicadas a seguir:
-> * O que descobriu sobre essa base?
-> * Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
-
 ## Modelo Lógico
 
 ![Modelo Lógico](/project-3-final/assets/images/MODELO_LOGICO.png)
@@ -189,7 +183,6 @@ A integração e normalização das bases de dados forneceram uma visão coesa s
 > Relatório de evolução, descrevendo as evoluções na modelagem do projeto, dificuldades enfrentadas, mudanças de rumo, melhorias e lições aprendidas. Referências aos diagramas, modelos e recortes de mudanças são bem-vindos.
 > Podem ser apresentados destaques na evolução do modelo lógico. O modelo inicial e intermediários (quando relevantes) e explicação de refinamentos, mudanças ou evolução do projeto que fundamentaram as decisões.
 > Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
-
 
 # Ferramentas
 
