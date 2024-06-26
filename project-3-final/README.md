@@ -247,7 +247,7 @@ Para a verificação dos dados no David, utilizamos os seguintes parâmetros:
 
 | Parameter |   Value   |
 |:----------:|:-------------------------------------------------------------------------------:|
-|  Gene list | All genes in [em_vitamin_d_result.csv](/data/processed/em_vitamin_d_result.csv) |
+|  Gene list | All genes in [em_vitamin_d_result.csv](/project-3-final/data/processed/em_vitamin_d_result.csv) |
 | Identifier |                               OFFICIAL_GENE_SYMBOL                              |
 |   Species  |                                   Mus Musculus                                  |
 |  List Type |                                    Gene list                                    |
@@ -267,7 +267,7 @@ Para a verificação das análises utilizando o Reactome, selecionamos os seguin
 
 | Parameter |   Value   |
 |:----------:|:-------------------------------------------------------------------------------:|
-|  Gene list | All genes in [em_vitamin_d_result.csv](/data/processed/em_vitamin_d_result.csv) |
+|  Gene list | All genes in [em_vitamin_d_result.csv](/project-3-final/data/processed/em_vitamin_d_result.csv) |
 | Pathways for |                               Mus musculus                             |
 
 Os principais resultados apontados com suas respectivas informações foram os seguintes:
