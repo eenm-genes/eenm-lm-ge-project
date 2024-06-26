@@ -169,15 +169,118 @@ A integração e normalização das bases de dados forneceram uma visão coesa s
 
 ## Análises Realizadas
 <div align="justify">  
+
+A partir da base integrada, iniciamos as análises dos dados utilizando o arquivo [em_vitamin_d_result.csv](/data/processed/em_vitamin_d_result.csv) e a ferramenta Cytoscape para obter ideias que nos ajudassem a desenvolver conexões.
+
+Com o Cytoscape, extraímos algumas métricas importantes utilizando o addon CytoNCA. A principal métrica utilizada foi o "Degree", referente ao grau de conexões dos nós na rede. Dessa forma, pudemos identificar centralidades e como esses genes centrais poderiam estar influenciando a rede. Os cinco resultados de maiores valores obtidos para essa métrica foram:
+
+| Gene Name | Degree |
+|:---------:|:------:|
+| **Actb**    | 75     |
+| **Cxcl10**  | 45     |
+| **Fn1**     | 18     |
+| **Nfkbia**  | 17     |
+| Socs3     | 10     |
+
+Em seguida, aplicamos uma clusterização com o método de Leiden, utilizando o addon clusterMaker2, com os seguintes parâmetros:
+
+| Parameter |   Value   |
+|:--------------------:|:----------:|
+| Clustering algorithm |   Leiden   |
+|  Objective function  | Modularity |
+| Resolution parameter |      1     |
+|      Beta value      |    0,01    |
+| Number os iterations |      2     |
+
+Com essa clusterização, obtivemos 4 comunidades, sendo Actb, Cxcl10, Fn1 e Nfkbia os genes centrais de cada comunidade. Buscamos explorar cada comunidade a fim de identificar possíveis particularidades e como elas poderiam influenciar a rede completa. Além disso, identificamos cada comunidade com uma coloração única para melhorar nossa visualização final.
+
+Após o processo inicial de definição das métricas, exploramos as interações entre os nós. Pela integração de bases, nossas arestas foram definidas com os pathways de referência para a interação e o documento científico que relatava essa interação. Dessa forma, exploramos a rede com os seguintes tipos de ligações entre os genes:
+
+- Interação gênica
+- Esclerose múltipla
+- Processo biológico
+
+Para finalizar o processo de análise com o Cytoscape e seus addons, realizamos um enriquecimento final com o addon STRING, a fim de gerar bordas para cada nó que demonstrassem os processos biológicos envolvidos para cada gene. Mantivemos a visualização apenas dos processos biológicos de nosso interesse, conforme citados a seguir. A visualização resultante foi a seguinte:
+
+![Cytoscape Network](/project-3-final/assets/images/CYTO_NETWORK.png)
+
+Este grafo possui as seguintes legendas para sua interpretação:
+
+| Comunidade  |                              Cor                             |
+|:------------------------------:|:------------------------------------------------------------:|
+| Actb                           | ![#118ab2ff](https://via.placeholder.com/20/118ab2ff?text=+) |
+| Cxcl10                         | ![#ffd166ff](https://via.placeholder.com/20/ffd166ff?text=+) |
+| Fn1                            | ![#06d6a0ff](https://via.placeholder.com/20/06d6a0ff?text=+) |
+| Nfkbia                         | ![#ef476fff](https://via.placeholder.com/20/ef476fff?text=+) |
+
+| Tipo de interação  |                              Cor                             |
+|:------------------------------:|:------------------------------------------------------------:|
+| Processo biológico | ![#5ef985ff](https://via.placeholder.com/20/5ef985ff?text=+) |
+| Esclerose Múltipla | ![#d83229ff](https://via.placeholder.com/20/d83229ff?text=+) |
+| Interação gênica   | ![#ccccccff](https://via.placeholder.com/20/ccccccff?text=+) |
+
+| Processo biológico  |                              Cor                             |
+|:------------------------------:|:------------------------------------------------------------:|
+| Defense Response | ![#75e056ff](https://via.placeholder.com/20/75e056ff?text=+) |
+| Immune Response | ![#b00c08ff](https://via.placeholder.com/20/b00c08ff?text=+) |
+| Positive Regulation Of Inflammatory Response | ![#ec9741ff](https://via.placeholder.com/20/ec9741ff?text=+) |
+| Regulation Of Apoptotic Process | ![#06d6a0ff](https://via.placeholder.com/20/06d6a0ff?text=+) |
+
+Portanto, pela análise realizada através do Cytoscape e seus addons para a integração de bases de maneira manual, pudemos identificar processos biológicos de relevância, como:
+
+- Defense Response
+- Immune Response
+- Positive Regulation Of Inflammatory Response
+- Regulation Of Apoptotic Process
+
+Assim como os mesmos estão se relacionando aos genes explorados pela integração de bases desenvolvida anteriormente.
+
+Para visualização interativa e completa da análise é possível acessar a sessão do Cytoscape através do arquivo neste [link](/project-3-final/src/em_vitamin_d_result.cys)
+
+## Verificação das Análises
+
+Após a análise realizada com o Cytoscape e a confirmação dos processos biológicos, decidimos verificar os resultados com ferramentas que poderiam relacionar tais genes aos processos biológicos. Utilizamos o addon [Reactome](https://reactome.org/gsa/home) pelo Cytoscape e o site do [David](https://david.ncifcrf.gov/).
+
+### Verificação das Análises - [David](https://david.ncifcrf.gov/)
+
+Para a verificação dos dados no David, utilizamos os seguintes parâmetros:
+
+| Parameter |   Value   |
+|:----------:|:-------------------------------------------------------------------------------:|
+|  Gene list | All genes in [em_vitamin_d_result.csv](/data/processed/em_vitamin_d_result.csv) |
+| Identifier |                               OFFICIAL_GENE_SYMBOL                              |
+|   Species  |                                   Mus Musculus                                  |
+|  List Type |                                    Gene list                                    |
+
+Obtivemos diversos resultados e analisamos os resultados obtidos em relação aos processos biológicos diretos pelo Gene Ontology, que forneceu uma lista extensa de processos biológicos relacionados aos genes listados. Esta listagem incluía os seguintes processos com suas respectivas informações:
+
+|              Processo biológico              | % de Genes | P-Valor |    FDR   |
+|:--------------------------------------------:|:----------:|:-------:|:-------:|
+| Immune response                              |     20%    | 3,9E-10 |    4,0E-8 |
+| Positive regulation of apoptotic process     |    17,5%   |  3,7E-9 |    3,2E-7 |
+| Defense response                             |     15%    | 4,4E-12 |   8,1E-10 |
+| Positive regulation of inflammatory response |    12,5%   | 6,6E-11 |    7,8E-9 |
+
+### Verificação das Análises - [Reactome](https://reactome.org/gsa/home)
+
+Para a verificação das análises utilizando o Reactome, selecionamos os seguintes parâmetros:
+
+| Parameter |   Value   |
+|:----------:|:-------------------------------------------------------------------------------:|
+|  Gene list | All genes in [em_vitamin_d_result.csv](/data/processed/em_vitamin_d_result.csv) |
+| Pathways for |                               Mus musculus                             |
+
+Os principais resultados apontados com suas respectivas informações foram os seguintes:
+
+
+|           Reactome Pathway          | % de Genes |  P-Valor  |    FDR    |
+|:-----------------------------------:|:----------:|:---------:|:---------:|
+| Immune System                       | 21%        | 8,3E-09 | 3,1E-06 |
+| Cytokine Signaling in Immune system | 5%         | 1,5E-08 | 3,1E-06 |
+| Signaling by Interleukins           | 4%         | 7,6E-07 | 9,8E-05 |
+| Signaling by PDGF                   | 0,6%       | 1,3E-06 | 1,2E-04 |
+| Interleukin-6 signaling             | 0,01%      | 1,6E-06 | 1,2E-04 |
 </div>
-
-> Apresente aqui uma análise dos dados.
-> Utilize gráficos que descrevam os aspectos principais da base que são relevantes para as perguntas de pesquisa consideradas.
->
-> Nesta seção ou na seção de Resultados podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
->
-> Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.
-
 
 ## Evolução do Projeto
 > Relatório de evolução, descrevendo as evoluções na modelagem do projeto, dificuldades enfrentadas, mudanças de rumo, melhorias e lições aprendidas. Referências aos diagramas, modelos e recortes de mudanças são bem-vindos.
