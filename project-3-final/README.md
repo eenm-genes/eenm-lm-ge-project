@@ -170,7 +170,7 @@ A integração e normalização das bases de dados forneceram uma visão coesa s
 ## Análises Realizadas
 <div align="justify">  
 
-A partir da base integrada, iniciamos as análises dos dados utilizando o arquivo [em_vitamin_d_result.csv](/data/processed/em_vitamin_d_result.csv) e a ferramenta Cytoscape para obter ideias que nos ajudassem a desenvolver conexões.
+A partir da base integrada, iniciamos as análises dos dados utilizando o arquivo [em_vitamin_d_result.csv](/project-3-final/data/processed/em_vitamin_d_result.csv) e a ferramenta Cytoscape para obter ideias que nos ajudassem a desenvolver conexões.
 
 Com o Cytoscape, extraímos algumas métricas importantes utilizando o addon CytoNCA. A principal métrica utilizada foi o "Degree", referente ao grau de conexões dos nós na rede. Dessa forma, pudemos identificar centralidades e como esses genes centrais poderiam estar influenciando a rede. Os cinco resultados de maiores valores obtidos para essa métrica foram:
 
