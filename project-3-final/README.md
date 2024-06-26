@@ -365,7 +365,7 @@ Realizar predições de novas conexões na rede tem como motivação explorar es
 
 > Quais possíveis desdobramentos este projeto pode ter?
 <div align="justify">
-Os possíveis desdobramentos que este projeto pode ter é colocar em prática o que foi pesquisado e analisado, incluindo os trabalhos futuros, transformando-o em um material de pesquisa de modo que a ideia que se deseja alcançar resulte numa obra que seja compreendida por todos.
+Os possíveis desdobramentos que este projeto pode ter é colocar em prática o que foi pesquisado e analisado, transformando-o em um material de pesquisa de modo que a ideia que se deseja alcançar resulte numa obra que seja compreendida por todos.
 </div>
 
 
