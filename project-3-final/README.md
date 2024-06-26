@@ -283,9 +283,6 @@ Os principais resultados apontados com suas respectivas informações foram os s
 </div>
 
 ## Evolução do Projeto
-> Relatório de evolução, descrevendo as evoluções na modelagem do projeto, dificuldades enfrentadas, mudanças de rumo, melhorias e lições aprendidas. Referências aos diagramas, modelos e recortes de mudanças são bem-vindos.
-> Podem ser apresentados destaques na evolução do modelo lógico. O modelo inicial e intermediários (quando relevantes) e explicação de refinamentos, mudanças ou evolução do projeto que fundamentaram as decisões.
-> Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
 
 O objetivo inicial do projeto era investigar a Expressão Gênica (EG) na Estimulação Elétrica Neuromuscular (EENM) em pacientes com Lesão Medular (LM). No entanto, devido à falta de artigos que apresentassem dados sobre essa questão específica, o tema do projeto foi alterado para estudar a Expressão Gênica da Vitamina D no tratamento da Esclerose Múltipla (EM). Esta mudança acarretou uma modificação geral no projeto, incluindo o modelo lógico.
 Originalmente, o modelo lógico considerava o gene, seu nível de expressão e como ele ativa ou reprimia outros genes, focando na diferença de expressão gênica. Com a mudança, o modelo passou a contemplar a interação do gene consigo mesmo e sua participação em diferentes vias metabólicas. Na terceira etapa, foi integrada ao processo a interação do sistema com processos biológicos e com a esclerose múltipla.
